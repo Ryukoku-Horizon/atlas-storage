@@ -1,0 +1,27 @@
+name: run build-deploy on HorizonAtlas
+
+on:
+  workflow_run:
+    workflows: ["update data"]
+    types:
+      - completed
+
+jobs:
+  build-and-deploy:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Node.js をセットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: build and deploy horizon-atlas
+        run: node ./scripts/runHorizonAtlasBuild.js
+        env:
+          HORIZON_ATLAS_APP_GH_PAT: ${{secrets.HORIZON_ATLAS_APP_GH_PAT}}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}

@@ -1,0 +1,34 @@
+name: update data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write  
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: run notion2atlas
+        run: ./notion2atlas
+        env:
+          HORIZON_ATLAS_APP_GH_PAT: ${{secrets.HORIZON_ATLAS_APP_GH_PAT}}
+          NOTION_DB_ID_ANSWER: ${{secrets.NOTION_DB_ID_ANSWER}}
+          NOTION_DB_ID_CATEGORY: ${{secrets.NOTION_DB_ID_CATEGORY}}
+          NOTION_DB_ID_HORIZON: ${{secrets.NOTION_DB_ID_HORIZON}}
+          NOTION_DB_ID_INFO: ${{secrets.NOTION_DB_ID_INFO}}
+          NOTION_TOKEN_HORIZON: ${{secrets.NOTION_TOKEN_HORIZON}}
+          DISCORD_WEBHOOK_URL: ${{secrets.DISCORD_WEBHOOK_URL}}
+          ENC_KEY: ${{secrets.ENC_KEY}}
+      
+      - name: Commit and push if changes exist
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update Notion data [skip ci]"
+          git push -f
