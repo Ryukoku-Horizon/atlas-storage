@@ -26,6 +26,7 @@ jobs:
           NOTION_DB_ID_INFO: ${{secrets.NOTION_DB_ID_INFO}}
           NOTION_TOKEN_HORIZON: ${{secrets.NOTION_TOKEN_HORIZON}}
           DISCORD_WEBHOOK_URL: ${{secrets.DISCORD_WEBHOOK_URL}}
+          DISCORD_THREAD_ID: ${{secrets.DISCORD_THREAD_ID}}
           ENC_KEY: ${{secrets.ENC_KEY}}
       
       - name: Commit and push if changes exist
