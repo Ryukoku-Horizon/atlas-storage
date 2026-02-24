@@ -1,53 +1,70 @@
-async function notifyDiscord(message) {
+async function notifyDiscord(title, description, color = 0x3498db, errorLog = null) {
   const webhookUrl = process.env.DISCORD_WEBHOOK_URL;
+  if (!webhookUrl) return;
 
-  if (!webhookUrl) {
-    console.error("DISCORD_WEBHOOK_URL not set");
-    return;
+  const embed = {
+    title: title,
+    description: description,
+    color: color,
+    timestamp: new Date().toISOString(),
+    footer: { text: "HorizonAtlas System Monitoring" },
+    fields: [
+      {
+        name: "Target Repository",
+        value: "[Ryukoku-Horizon/horizon-atlas](https://github.com/Ryukoku-Horizon/horizon-atlas)",
+        inline: true
+      }
+    ]
+  };
+
+  // もしエラーログがあれば、フィールドとして追加
+  if (errorLog) {
+    embed.fields.push({
+      name: "💻 GitHub API Response",
+      value: `\`\`\`json\n${errorLog}\n\`\`\``, // コードブロックで囲む
+      inline: false
+    });
   }
 
   await fetch(webhookUrl, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
-      username: "HorizonAtlas",
-      content: message,
+      username: "HorizonAtlas Notify",
+      embeds: [embed],
     }),
   });
 }
 
 const token = process.env.HORIZON_ATLAS_APP_GH_PAT;
-(async()=>{
-    const res = await fetch(
+
+(async () => {
+  const res = await fetch(
     "https://api.github.com/repos/Ryukoku-Horizon/horizon-atlas/actions/workflows/build_Deploy.yml/dispatches",
     {
-        method: "POST",
-        headers: {
+      method: "POST",
+      headers: {
         Authorization: `Bearer ${token}`,
         Accept: "application/vnd.github+json",
         "Content-Type": "application/json",
-        },
-        body: JSON.stringify({ ref: "main" }),
+      },
+      body: JSON.stringify({ ref: "main" }),
     }
+  );
+
+  if (!res.ok) {
+    const text = await res.text();
+
+    const errorLog = text.length > 500 ? text.substring(0, 500) + "..." : text;
+
+    await notifyDiscord(
+      "🚨 【緊急】Workflow 起動失敗",
+      "**atlas-storage** からの `build-deploy` 実行リクエストが拒否されました。",
+      0xff4b2b, // エラー用の赤色
+      errorLog  // 第4引数としてエラーテキストを渡す
     );
 
-    if (!res.ok) {
-    const text = await res.text();
-    await notifyDiscord(`
-      【緊急】
-        atlas-storageから”run build-deploy on HorizonAtlas”のworkflow実行に失敗しました
-        HORIZON_ATLAS_APP_GH_PATが期限切れの可能性があるので、確認しましょう
-        `)
-    throw new Error(text)
-    }
-    const date = new Date()
-    if((date.getMonth() % 4) + 1===0 && date.getDate()===1){
-      await notifyDiscord(`
-      【定期】
-        HORIZON_ATLAS_APP_GH_PATの期限を更新してください
-        方法についてはこちら→[pat更新の方法](https://www.notion.so/pat-2e0a501ef33780e7be6cef8a86802f2f)
-        `)
-    }
+  }
 
-    console.log("workflow dispatched");
-})()
+  console.log("workflow dispatched");
+})();
