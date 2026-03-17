@@ -1,0 +1,14 @@
+[
+  {
+    "id": "24ca501ef337806cbdd7dc4251317ba1",
+    "type": "synced_block",
+    "parentId": "1b8a501ef33780baa251c8fe9f1c8cc2",
+    "curriculumId": "1b8a501ef33780baa251c8fe9f1c8cc2",
+    "pageId": "1b8a501ef33780baa251c8fe9f1c8cc2",
+    "data": {
+      "type": "synced",
+      "synced": "original"
+    },
+    "order": 37
+  }
+]

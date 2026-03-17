@@ -1,0 +1,6741 @@
+[
+  {
+    "id": "286a501ef33780798745d087320edfc0",
+    "curriculumId": "286a501ef33780798745d087320edfc0",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 2,
+    "parentId": "",
+    "title": "Python - 練習問題2",
+    "type": "answer",
+    "ogp": {
+      "first_text": "練習問題2おつかれまさでした\n以下に練習問題2の回答例が記載されています。",
+      "image_path": "https://raw.githubusercontent.com/suma341/notion2atlas/main/notion_data/ogp/286a501ef33780798745d087320edfc0.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "解答"
+    ],
+    "category": [
+      "解答"
+    ],
+    "last_edited_time": "2026-01-04T08:02:00.000Z"
+  },
+  {
+    "id": "286a501ef33780e6b085c2ac844a56b6",
+    "curriculumId": "286a501ef33780e6b085c2ac844a56b6",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 1,
+    "parentId": "",
+    "title": "Python - 練習問題1",
+    "type": "answer",
+    "ogp": {
+      "first_text": "練習問題1おつかれまさでした！",
+      "image_path": "https://raw.githubusercontent.com/suma341/notion2atlas/main/notion_data/ogp/286a501ef33780e6b085c2ac844a56b6.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "解答"
+    ],
+    "category": [
+      "解答"
+    ],
+    "last_edited_time": "2026-01-04T08:02:00.000Z"
+  },
+  {
+    "id": "286a501ef33780e6b322f2081c425174",
+    "curriculumId": "286a501ef33780e6b322f2081c425174",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 3,
+    "parentId": "",
+    "title": "Python - 練習問題3",
+    "type": "answer",
+    "ogp": {
+      "first_text": "練習問題3おつかれまさでした！\n以下に練習問題3の回答例が記載されています。",
+      "image_path": "https://raw.githubusercontent.com/suma341/notion2atlas/main/notion_data/ogp/286a501ef33780e6b322f2081c425174.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "解答"
+    ],
+    "category": [
+      "解答"
+    ],
+    "last_edited_time": "2026-01-04T08:02:00.000Z"
+  },
+  {
+    "id": "287a501ef337800b8950c28fb48e552e",
+    "curriculumId": "287a501ef337800b8950c28fb48e552e",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 5,
+    "parentId": "",
+    "title": "Python - 練習問題5",
+    "type": "answer",
+    "ogp": {
+      "first_text": "練習問題5おつかれまさでした！",
+      "image_path": "https://raw.githubusercontent.com/suma341/notion2atlas/main/notion_data/ogp/287a501ef337800b8950c28fb48e552e.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "解答"
+    ],
+    "category": [
+      "解答"
+    ],
+    "last_edited_time": "2026-01-04T08:02:00.000Z"
+  },
+  {
+    "id": "287a501ef337805e8394c55c7120aa06",
+    "curriculumId": "287a501ef337805e8394c55c7120aa06",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 4,
+    "parentId": "",
+    "title": "Python - 練習問題4",
+    "type": "answer",
+    "ogp": {
+      "first_text": "練習問題4おつかれまさでした！",
+      "image_path": "https://raw.githubusercontent.com/suma341/notion2atlas/main/notion_data/ogp/287a501ef337805e8394c55c7120aa06.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "解答"
+    ],
+    "category": [
+      "解答"
+    ],
+    "last_edited_time": "2026-01-04T08:02:00.000Z"
+  },
+  {
+    "id": "1ada501ef33781428531e12a83e0195b",
+    "curriculumId": "1ada501ef33781428531e12a83e0195b",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/notion_gray.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 1004,
+    "parentId": "",
+    "title": "Notionの使い方",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここでは、とても便利なメモツール Notion についてご紹介します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef33781428531e12a83e0195b.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Notion",
+      "ガイド"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2026-01-04T10:23:00.000Z"
+  },
+  {
+    "id": "1ada501ef337812684aaed5641d0206b",
+    "curriculumId": "1ada501ef33781428531e12a83e0195b",
+    "iconType": "external",
+    "iconUrl": "https://img.icons8.com/?size=300\u0026id=6651\u0026format=png\u0026color=000000",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 6,
+    "parentId": "1ada501ef33781428531e12a83e0195b",
+    "title": "Notionとは",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "みなさんは、パソコン・スマホでメモを取ったり、授業内容をまとめたりするときはどうしていますか？",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef337812684aaed5641d0206b.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Notion",
+      "ガイド"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-03-05T07:15:00.000Z"
+  },
+  {
+    "id": "1ada501ef337817c8daec3bd8ad9a5c3",
+    "curriculumId": "1ada501ef33781428531e12a83e0195b",
+    "iconType": "external",
+    "iconUrl": "https://img.icons8.com/?size=300\u0026id=13370\u0026format=png\u0026color=000000",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 7,
+    "parentId": "1ada501ef33781428531e12a83e0195b",
+    "title": "登録",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "まずは、Notionに登録／サインアップしましょう。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef337817c8daec3bd8ad9a5c3.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Notion",
+      "ガイド"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-03-05T07:15:00.000Z"
+  },
+  {
+    "id": "1ada501ef3378196aa86d125c7dd62b8",
+    "curriculumId": "1ada501ef33781428531e12a83e0195b",
+    "iconType": "external",
+    "iconUrl": "https://img.icons8.com/?size=300\u0026id=95146\u0026format=png\u0026color=000000",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 8,
+    "parentId": "1ada501ef33781428531e12a83e0195b",
+    "title": "ページとは",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Notionの便利かつもっとも基本的な機能、ページについて紹介します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef3378196aa86d125c7dd62b8.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Notion",
+      "ガイド"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-03-05T07:15:00.000Z"
+  },
+  {
+    "id": "1ada501ef33781f99b66c2e06d68f534",
+    "curriculumId": "1ada501ef33781428531e12a83e0195b",
+    "iconType": "file",
+    "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/assets/1ada501ef33781f99b66c2e06d68f534/icon.png?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Credential=ASIAZI2LB466R7QDGJSH%2F20260104%2Fus-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date=20260104T102536Z\u0026X-Amz-Expires=3600\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGEaCXVzLXdlc3QtMiJIMEYCIQDIpRjnUMARoqm8dGQIAd%2Fa9sdLEdU2xzJGFX58Y8ZkxgIhAKBy28zDYVJ67GQttiFaEC%2FAoxPuKffFOk3rnX%2Bd7wbIKv8DCCoQABoMNjM3NDIzMTgzODA1Igw03EwRh%2BAYu769s2sq3AOITQLdbvkoRIdV8EO3PbJ%2BcePow7C2hfPn6aGzMTCKQrltD3LXdcSBxhpzIo%2Fg%2FtsbJoFwzRG6pU8G4OCgWn%2FUM206HyNJo68Dr6coPxfZsVgqxidRDol29plivh%2FC0V0ZPBUKFDlHKUnwDH52CEgNDvNx3s4bXsBXcoY11g0osg7a%2B%2B2RpbS7mb9ezxL4nBo3bHOSRNkqVQRQRjmrGiMwgoKFvTclHnLICnx1IvCQhSiX0Mw0JU%2BPaSux8%2FD3wYWBBeWGdPNUYasoW8a1YSrfO4CBdcaiejhvbF2jUD3P2YJUCAb%2FBmZk27adheq0MP0adt3yefgO%2B5yD8Zg9ALpo72Syp1yPp%2BY2E8N57I6610a85eHoJ2I7Vfpprq%2FZMnr%2F9F91TqF%2FSomP%2BVqS%2B8s105lbd28o9y8JSXq6h07pLyICCYesMtIHudIanc0bJ2A9riJ%2FQmNeTmSqVI%2Btk1DoGCEMl5Ss05FBdhj7BYyPDROSVsMPKEiOiDVOnQwBi3oDKHc0f3EpHSZBXiVcgfH1tqT1zLMjODTw0m6x1BFjzMUBe4vXLEOoP61LABmPQMVO4rgn5%2BaABlDdPNOFoprzhP61CUl3PxYT%2BoaysE%2F%2BzMsQjXDWddn0BUuaLjCe1OjKBjqkAbJIH%2F0y5eENEazIlOlnblOfTG2YTLam6Pk0AvDRWAOGIwKP%2BI89JkZ8BoYy9HFN7ExS4W2LFXqKlmm2vUkQhy2dO%2Fyag%2FMFIA%2FrG8f5cp5KdTuq8KRMTYJyqqEl%2BST8MDa%2BjkGVyxuiUarKRWiqiEPx%2Fo%2BgozlqSf2xmHl52nHHMedm9yc8oqw9cSRDK8VN41L1gLvqApcbtYXV8r1kpISb6KdG\u0026X-Amz-Signature=d641fffc236276ea730fb47ebe83dce47de9ae47623e492b21dabbd6b40455a4\u0026X-Amz-SignedHeaders=host\u0026x-amz-checksum-mode=ENABLED\u0026x-id=GetObject",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 9,
+    "parentId": "1ada501ef33781428531e12a83e0195b",
+    "title": "ブロックとは",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Notionで何かを書くときの最小単位、それが「ブロック」です。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef33781f99b66c2e06d68f534.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Notion",
+      "ガイド"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-03-24T01:17:00.000Z"
+  },
+  {
+    "id": "1ada501ef3378182a8add5435b8cf059",
+    "curriculumId": "1ada501ef33781428531e12a83e0195b",
+    "iconType": "external",
+    "iconUrl": "https://img.icons8.com/?size=300\u0026id=JPWzUOqbPQGO\u0026format=png\u0026color=000000",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 10,
+    "parentId": "1ada501ef33781428531e12a83e0195b",
+    "title": "ブロックの使い方",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここでは、Notionで使用できる主なブロックとその利用方法をお教えします。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef3378182a8add5435b8cf059.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Notion",
+      "ガイド"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-03-05T07:15:00.000Z"
+  },
+  {
+    "id": "1ada501ef3378162a825c0f0afcaf785",
+    "curriculumId": "1ada501ef33781428531e12a83e0195b",
+    "iconType": "external",
+    "iconUrl": "https://img.icons8.com/?size=300\u0026id=AnnpaYsJQ8CK\u0026format=png\u0026color=000000",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 11,
+    "parentId": "1ada501ef33781428531e12a83e0195b",
+    "title": "ページの共有（Web公開）",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Notionでは、自分が書いたページを他の人に簡単に共有する機能が備わっています。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef3378162a825c0f0afcaf785.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Notion",
+      "ガイド"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-12-20T08:15:00.000Z"
+  },
+  {
+    "id": "1ada501ef33781eebfaaee9f60ef6d52",
+    "curriculumId": "1ada501ef33781428531e12a83e0195b",
+    "iconType": "external",
+    "iconUrl": "https://img.icons8.com/?size=300\u0026id=wue74HqaylSJ\u0026format=png\u0026color=000000",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 24,
+    "parentId": "1ada501ef33781428531e12a83e0195b",
+    "title": "Notion課題",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "オリジナルアプリ紹介ページを作ろう",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef33781eebfaaee9f60ef6d52.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Notion",
+      "ガイド"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-12-20T07:06:00.000Z"
+  },
+  {
+    "id": "1ada501ef33781e8b251df0f38a0cb23",
+    "curriculumId": "1ada501ef33781e8b251df0f38a0cb23",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/database_blue.svg",
+    "coverUrl": "https://www.notion.so/images/page-cover/gradients_2.png",
+    "coverType": "external",
+    "order": 1003,
+    "parentId": "",
+    "title": "データベース基礎",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここではアプリーケーションでデータを保存するために使用する「データベース」の基礎について学習できます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef33781e8b251df0f38a0cb23.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "データベース",
+      "Python"
+    ],
+    "category": [
+      "技術ガイド",
+      "後期"
+    ],
+    "last_edited_time": "2026-01-04T10:23:00.000Z"
+  },
+  {
+    "id": "1ada501ef33781ce889fd99449a4ba30",
+    "curriculumId": "1ada501ef33781e8b251df0f38a0cb23",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/question-mark_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 0,
+    "parentId": "1ada501ef33781edb7b0e1ec76e410d0",
+    "title": "データベースとは",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここでは、データベース（Database）とは何か、その概要について紹介します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef33781ce889fd99449a4ba30.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "データベース",
+      "Python"
+    ],
+    "category": [
+      "技術ガイド",
+      "後期"
+    ],
+    "last_edited_time": "2025-09-18T15:50:00.000Z"
+  },
+  {
+    "id": "1ada501ef33781ea92d1dcb4d8f60e2a",
+    "curriculumId": "1ada501ef33781e8b251df0f38a0cb23",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/snippet_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 1,
+    "parentId": "1ada501ef33781edb7b0e1ec76e410d0",
+    "title": "Pythonでデータベースを扱うためのライブラリ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回は、Pythonでデータベースを操作するためのライブラリの紹介をします。そして、データベースを便利に扱うためのVSCodeの拡張機能のインストールをしてもらいます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef33781ea92d1dcb4d8f60e2a.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "データベース",
+      "Python"
+    ],
+    "category": [
+      "技術ガイド",
+      "後期"
+    ],
+    "last_edited_time": "2025-09-18T15:50:00.000Z"
+  },
+  {
+    "id": "1ada501ef3378160b03ef28f8a18fa43",
+    "curriculumId": "1ada501ef33781e8b251df0f38a0cb23",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/branch-create_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 0,
+    "parentId": "1ada501ef337817ea926ce51c10f819e",
+    "title": "データベースとの接続とテーブルの作成",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回はpythonとそのライブラリであるsqlite3を使用して、データベースとの接続方法と、テーブルの作成方法を紹介します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef3378160b03ef28f8a18fa43.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "データベース",
+      "Python"
+    ],
+    "category": [
+      "技術ガイド",
+      "後期"
+    ],
+    "last_edited_time": "2025-11-28T10:53:00.000Z"
+  },
+  {
+    "id": "1ada501ef3378124834cd232ae4e3855",
+    "curriculumId": "1ada501ef33781e8b251df0f38a0cb23",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/arrow-down-line_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 1,
+    "parentId": "1ada501ef337817ea926ce51c10f819e",
+    "title": "データの保存(Create)",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回はpythonとそのライブラリであるsqlite3を使用して、データベースにデータを保存する方法を紹介します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef3378124834cd232ae4e3855.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "データベース",
+      "Python"
+    ],
+    "category": [
+      "技術ガイド",
+      "後期"
+    ],
+    "last_edited_time": "2025-09-18T15:50:00.000Z"
+  },
+  {
+    "id": "1ada501ef33781fe9043da67e48709a8",
+    "curriculumId": "1ada501ef33781e8b251df0f38a0cb23",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/move-document_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 2,
+    "parentId": "1ada501ef337817ea926ce51c10f819e",
+    "title": "データの取得(Read)",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回はpythonとそのライブラリであるsqlite3を使用して、データベースのデータを取得する方法を紹介します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef33781fe9043da67e48709a8.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "データベース",
+      "Python"
+    ],
+    "category": [
+      "技術ガイド",
+      "後期"
+    ],
+    "last_edited_time": "2025-09-18T15:49:00.000Z"
+  },
+  {
+    "id": "1ada501ef337815aa9e6d8cdd63afa9c",
+    "curriculumId": "1ada501ef33781e8b251df0f38a0cb23",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/pencil_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 3,
+    "parentId": "1ada501ef337817ea926ce51c10f819e",
+    "title": "データの編集(Update)",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回はpythonとそのライブラリであるsqlite3を使用して、データベースのデータを編集する方法を紹介します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef337815aa9e6d8cdd63afa9c.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "データベース",
+      "Python"
+    ],
+    "category": [
+      "技術ガイド",
+      "後期"
+    ],
+    "last_edited_time": "2025-09-18T15:51:00.000Z"
+  },
+  {
+    "id": "1ada501ef3378190b5d5ff083def3250",
+    "curriculumId": "1ada501ef33781e8b251df0f38a0cb23",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/delete_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 4,
+    "parentId": "1ada501ef337817ea926ce51c10f819e",
+    "title": "データの削除(Delete)",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回はpythonとそのライブラリであるsqlite3を使用して、データベースのデータを削除する方法を紹介します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef3378190b5d5ff083def3250.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "データベース",
+      "Python"
+    ],
+    "category": [
+      "技術ガイド",
+      "後期"
+    ],
+    "last_edited_time": "2025-09-18T15:48:00.000Z"
+  },
+  {
+    "id": "1ada501ef33781d28f41cd45c5a72b38",
+    "curriculumId": "1ada501ef33781e8b251df0f38a0cb23",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/sliders-horizontal_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 0,
+    "parentId": "1ada501ef3378121baf9d3b57298cc62",
+    "title": "CRUD操作を使い回せるようにしよう",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回は、CRUD操作をする使い回し可能な関数の作り方の一例を紹介します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef33781d28f41cd45c5a72b38.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "データベース",
+      "Python"
+    ],
+    "category": [
+      "技術ガイド",
+      "後期"
+    ],
+    "last_edited_time": "2025-11-14T06:14:00.000Z"
+  },
+  {
+    "id": "1ada501ef33781a2bb7ad5bc48cd5f09",
+    "curriculumId": "1ada501ef33781e8b251df0f38a0cb23",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/drafts_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 0,
+    "parentId": "255a501ef33780029d51eafd8aafde20",
+    "title": "テーブルの編集",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回は、既存のテーブルを後から編集する方法を説明します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef33781a2bb7ad5bc48cd5f09.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "データベース",
+      "Python"
+    ],
+    "category": [
+      "技術ガイド",
+      "後期"
+    ],
+    "last_edited_time": "2025-09-18T15:48:00.000Z"
+  },
+  {
+    "id": "1ada501ef33781aca7f5efdaf65ef9e7",
+    "curriculumId": "1ada501ef33781e8b251df0f38a0cb23",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/keyboard-alternate_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 1,
+    "parentId": "255a501ef33780029d51eafd8aafde20",
+    "title": "マイグレーション",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回は、データベースにおける「マイグレーション」について説明します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef33781aca7f5efdaf65ef9e7.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "データベース",
+      "Python"
+    ],
+    "category": [
+      "技術ガイド",
+      "後期"
+    ],
+    "last_edited_time": "2025-08-20T03:25:00.000Z"
+  },
+  {
+    "id": "1e0a501ef33780dd8d3ee0341937095f",
+    "curriculumId": "1e0a501ef33780dd8d3ee0341937095f",
+    "iconType": "emoji",
+    "iconUrl": "📘",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 1001,
+    "parentId": "",
+    "title": "言語一覧",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "誤字脱字、不自然な表現があれば、発展班運営に連絡をお願い致します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1e0a501ef33780dd8d3ee0341937095f.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "プログラミング言語",
+      "ガイド",
+      "セットアップ"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2026-01-04T10:23:00.000Z"
+  },
+  {
+    "id": "1e0a501ef337807d8d51ffdbd5aa590b",
+    "curriculumId": "1e0a501ef33780dd8d3ee0341937095f",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 0,
+    "parentId": "1e0a501ef33780dd8d3ee0341937095f",
+    "title": "Cガイド",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "✅概要",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1e0a501ef337807d8d51ffdbd5aa590b.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "プログラミング言語",
+      "ガイド",
+      "セットアップ"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-04-27T11:39:00.000Z"
+  },
+  {
+    "id": "1e0a501ef33780afba2ce028d73d0c32",
+    "curriculumId": "1e0a501ef33780dd8d3ee0341937095f",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 1,
+    "parentId": "1e0a501ef33780dd8d3ee0341937095f",
+    "title": "C++ガイド",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "✅概要",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1e0a501ef33780afba2ce028d73d0c32.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "プログラミング言語",
+      "ガイド",
+      "セットアップ"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-04-27T11:39:00.000Z"
+  },
+  {
+    "id": "1e0a501ef33780c2bdb7e83ebc6675f6",
+    "curriculumId": "1e0a501ef33780dd8d3ee0341937095f",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 2,
+    "parentId": "1e0a501ef33780dd8d3ee0341937095f",
+    "title": "C#ガイド",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "✅ 概要",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1e0a501ef33780c2bdb7e83ebc6675f6.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "プログラミング言語",
+      "ガイド",
+      "セットアップ"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-04-27T11:39:00.000Z"
+  },
+  {
+    "id": "1e0a501ef3378039b5ffe8ff7a3b160c",
+    "curriculumId": "1e0a501ef33780dd8d3ee0341937095f",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 3,
+    "parentId": "1e0a501ef33780dd8d3ee0341937095f",
+    "title": "JAVAガイド",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "✅ 概要",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1e0a501ef3378039b5ffe8ff7a3b160c.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "プログラミング言語",
+      "ガイド",
+      "セットアップ"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-04-27T11:39:00.000Z"
+  },
+  {
+    "id": "1e0a501ef3378083b011d3e519821520",
+    "curriculumId": "1e0a501ef33780dd8d3ee0341937095f",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 4,
+    "parentId": "1e0a501ef33780dd8d3ee0341937095f",
+    "title": "Pythonガイド",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "✅ 概要",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1e0a501ef3378083b011d3e519821520.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "プログラミング言語",
+      "ガイド",
+      "セットアップ"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-04-27T11:39:00.000Z"
+  },
+  {
+    "id": "1e0a501ef33780efbfced4e500670fcb",
+    "curriculumId": "1e0a501ef33780dd8d3ee0341937095f",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 5,
+    "parentId": "1e0a501ef33780dd8d3ee0341937095f",
+    "title": "Goガイド",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "✅ 概要",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1e0a501ef33780efbfced4e500670fcb.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "プログラミング言語",
+      "ガイド",
+      "セットアップ"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-04-27T11:39:00.000Z"
+  },
+  {
+    "id": "1e0a501ef33780ca9e4dd6ed64bb9789",
+    "curriculumId": "1e0a501ef33780dd8d3ee0341937095f",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 6,
+    "parentId": "1e0a501ef33780dd8d3ee0341937095f",
+    "title": "JavaScriptガイド",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "✅概要",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1e0a501ef33780ca9e4dd6ed64bb9789.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "プログラミング言語",
+      "ガイド",
+      "セットアップ"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-05-09T08:40:00.000Z"
+  },
+  {
+    "id": "1e2a501ef3378044b5f3f682843ee1b2",
+    "curriculumId": "1e0a501ef33780dd8d3ee0341937095f",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 7,
+    "parentId": "1e0a501ef33780dd8d3ee0341937095f",
+    "title": "Node.jsガイド",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "✅ 概要",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1e2a501ef3378044b5f3f682843ee1b2.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "プログラミング言語",
+      "ガイド",
+      "セットアップ"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-04-28T00:51:00.000Z"
+  },
+  {
+    "id": "1e2a501ef337803cb6fedfac09f14017",
+    "curriculumId": "1e0a501ef33780dd8d3ee0341937095f",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 8,
+    "parentId": "1e0a501ef33780dd8d3ee0341937095f",
+    "title": "TypeScriptガイド",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "✅概要",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1e2a501ef337803cb6fedfac09f14017.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "プログラミング言語",
+      "ガイド",
+      "セットアップ"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-04-28T10:57:00.000Z"
+  },
+  {
+    "id": "1e0a501ef33780efadc7e6da2c264201",
+    "curriculumId": "1e0a501ef33780efadc7e6da2c264201",
+    "iconType": "emoji",
+    "iconUrl": "📚",
+    "coverUrl": "https://www.notion.so/images/page-cover/woodcuts_8.jpg",
+    "coverType": "external",
+    "order": 1000,
+    "parentId": "",
+    "title": "プログラミング言語ガイド",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ゲーム、Web、アプリなど、用途別分類を見たいなら",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1e0a501ef33780efadc7e6da2c264201.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "ガイド",
+      "プログラミング言語"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2026-01-04T10:23:00.000Z"
+  },
+  {
+    "id": "1e0a501ef337804ebed1f93373407682",
+    "curriculumId": "1e0a501ef33780efadc7e6da2c264201",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 1,
+    "parentId": "1e0a501ef33780efadc7e6da2c264201",
+    "title": "プログラミング言語用途による分類",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "戻る",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1e0a501ef337804ebed1f93373407682.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "ガイド",
+      "プログラミング言語"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-04-27T10:51:00.000Z"
+  },
+  {
+    "id": "1e0a501ef337806da2c4e60e9eef0e14",
+    "curriculumId": "1e0a501ef33780efadc7e6da2c264201",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 5,
+    "parentId": "1e0a501ef33780efadc7e6da2c264201",
+    "title": "実行方法による分類",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "戻る",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1e0a501ef337806da2c4e60e9eef0e14.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "ガイド",
+      "プログラミング言語"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-04-27T10:49:00.000Z"
+  },
+  {
+    "id": "1e0a501ef3378037bf53f8e3f878872a",
+    "curriculumId": "1e0a501ef33780efadc7e6da2c264201",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 9,
+    "parentId": "1e0a501ef33780efadc7e6da2c264201",
+    "title": "難易度による分類",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "戻る",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1e0a501ef3378037bf53f8e3f878872a.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "ガイド",
+      "プログラミング言語"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-04-27T10:50:00.000Z"
+  },
+  {
+    "id": "1e0a501ef337802f9270d323affa25d8",
+    "curriculumId": "1e0a501ef33780efadc7e6da2c264201",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 13,
+    "parentId": "1e0a501ef33780efadc7e6da2c264201",
+    "title": "開発ツール",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "戻る",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1e0a501ef337802f9270d323affa25d8.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "ガイド",
+      "プログラミング言語"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-04-25T15:57:00.000Z"
+  },
+  {
+    "id": "200a501ef33780ffb3a9ed1bd068b618",
+    "curriculumId": "200a501ef33780ffb3a9ed1bd068b618",
+    "iconType": "custom_emoji",
+    "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/assets/200a501ef33780ffb3a9ed1bd068b618/icon.png",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 2000,
+    "parentId": "",
+    "title": "Qiita Teamへの参加方法（全体向け）",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Qiita Teamとは、部内で様々な知識・経験を共有するために使用している情報共有サービスです！",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/200a501ef33780ffb3a9ed1bd068b618.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Qiita Team"
+    ],
+    "category": [],
+    "last_edited_time": "2026-01-04T10:23:00.000Z"
+  },
+  {
+    "id": "211a501ef3378033aba3e2b9e036eacf",
+    "curriculumId": "211a501ef3378033aba3e2b9e036eacf",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/whale_blue.svg",
+    "coverUrl": "https://www.notion.so/images/page-cover/solid_yellow.png",
+    "coverType": "external",
+    "order": 1006,
+    "parentId": "",
+    "title": "Dockerガイド",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここでは、Dockerについて解説します。できるだけ平易の言葉を使ってわかりやすく解説します！",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/211a501ef3378033aba3e2b9e036eacf.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Docker",
+      "セットアップ"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2026-01-04T10:23:00.000Z"
+  },
+  {
+    "id": "211a501ef33781b49b29f9f99f64ba24",
+    "curriculumId": "211a501ef3378033aba3e2b9e036eacf",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/arrow-down-line_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 0,
+    "parentId": "211a501ef337806f9ccaf27c8c8f9b92",
+    "title": "Dockerのインストール",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "インストール方法",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/211a501ef33781b49b29f9f99f64ba24.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Docker",
+      "セットアップ"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-06-13T07:52:00.000Z"
+  },
+  {
+    "id": "211a501ef337819581b6ebbc6999f155",
+    "curriculumId": "211a501ef3378033aba3e2b9e036eacf",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/question-mark_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 0,
+    "parentId": "211a501ef33780c49b35eb2caa472574",
+    "title": "Dockerとは？",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここでは「Dockerとは何か」について概要を説明します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/211a501ef337819581b6ebbc6999f155.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Docker",
+      "セットアップ"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-09-19T01:22:00.000Z"
+  },
+  {
+    "id": "211a501ef337816b83cec443681b6751",
+    "curriculumId": "211a501ef3378033aba3e2b9e036eacf",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/photo-landscape_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 1,
+    "parentId": "211a501ef33780c49b35eb2caa472574",
+    "title": "イメージとコンテナについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Dockerを理解する上で重要となる要素が「イメージ」と「コンテナ」です。ここではその二つについて解説します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/211a501ef337816b83cec443681b6751.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Docker",
+      "セットアップ"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-06-14T03:10:00.000Z"
+  },
+  {
+    "id": "211a501ef337811498e2c56b90c48d3f",
+    "curriculumId": "211a501ef3378033aba3e2b9e036eacf",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/package_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 0,
+    "parentId": "211a501ef3378069930eeb71c33812c4",
+    "title": "コンテナ起動までの流れ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここでは、コンテナを起動するまでの流れを説明します",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/211a501ef337811498e2c56b90c48d3f.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Docker",
+      "セットアップ"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-06-14T02:53:00.000Z"
+  },
+  {
+    "id": "24ba501ef33780e683f3dec2d9cb8a44",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/code_orange.svg",
+    "coverUrl": "https://www.notion.so/images/page-cover/met_william_morris_1877_willow.jpg",
+    "coverType": "external",
+    "order": 1101,
+    "parentId": "",
+    "title": "HTML,CSS",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "このページでは、HTML, CSSの基本を身につけるための教材と基礎問題、実際にWebページを作成する演習形式の問題を公開しています。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef33780e683f3dec2d9cb8a44.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2026-01-04T10:23:00.000Z"
+  },
+  {
+    "id": "24ba501ef3378161a4dffdaf7b0fed22",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "📔",
+    "coverUrl": "https://images.unsplash.com/photo-1478104718532-efe04cc3ff7f?ixlib=rb-4.0.3\u0026q=85\u0026fm=jpg\u0026crop=entropy\u0026cs=srgb",
+    "coverType": "external",
+    "order": 0,
+    "parentId": "24ba501ef33780d28482e8ea9d6c344a",
+    "title": "HTMLの基本",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "このページはPCで閲覧することを前提に作成しています。このページでは、Notionの機能の一つ”コールアウト”をりようしてHTMLの構造を表現しています。スマートフォンなどで閲覧する場合、アスペクト比、レスポンシブ対応などの影響でこの表現が崩れる可能性があります。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef3378161a4dffdaf7b0fed22.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-10T13:42:00.000Z"
+  },
+  {
+    "id": "24ba501ef337810383accac23c85dce4",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/command-line_purple.svg",
+    "coverUrl": "https://images.unsplash.com/photo-1623520333087-62b8793e3d23?ixlib=rb-4.0.3\u0026q=85\u0026fm=jpg\u0026crop=entropy\u0026cs=srgb",
+    "coverType": "external",
+    "order": 0,
+    "parentId": "24ba501ef33780dbaf92fa7facdc357a",
+    "title": "VSCodeの設定",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "HTML, CSSの学習を効率よく進めるためのに、VSCodeのおすすめな設定を伝授します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef337810383accac23c85dce4.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-10T13:42:00.000Z"
+  },
+  {
+    "id": "24ba501ef33780759e6ed3f3efbc8126",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "🐣",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 33,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "1. HTMLの雛形",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "練習問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef33780759e6ed3f3efbc8126.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-10T13:58:00.000Z"
+  },
+  {
+    "id": "24ba501ef33780edacc4d54914fb20d2",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 34,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "演習問題1",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "演習：Webページの作成",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef33780edacc4d54914fb20d2.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-10T13:47:00.000Z"
+  },
+  {
+    "id": "24ba501ef33780b48a8ac9458eaef4ab",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 35,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "2. テキストに関するタグ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題1",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef33780b48a8ac9458eaef4ab.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-10T13:47:00.000Z"
+  },
+  {
+    "id": "24ba501ef337806390e9d0177ad55025",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 36,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "演習問題2",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef337806390e9d0177ad55025.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-15T09:27:00.000Z"
+  },
+  {
+    "id": "24ba501ef337806fb46cceef79e9cbfc",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/list_red.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 37,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "3. リストに関するタグ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "練習問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef337806fb46cceef79e9cbfc.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-10T13:48:00.000Z"
+  },
+  {
+    "id": "24ba501ef337803096c5cad4dbbcae90",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 38,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "演習問題3",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef337803096c5cad4dbbcae90.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-15T09:28:00.000Z"
+  },
+  {
+    "id": "24ba501ef33780feb7a1d55613cbe24a",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/movie-clapboard-play_green.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 39,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "4. メディアに関するタグ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "練習問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef33780feb7a1d55613cbe24a.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-10T13:49:00.000Z"
+  },
+  {
+    "id": "24ba501ef33780d6b531e0d4dea4689b",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 40,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "演習問題4 ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef33780d6b531e0d4dea4689b.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-15T09:28:00.000Z"
+  },
+  {
+    "id": "24ba501ef337808f8a33f3a85747e022",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/table_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 41,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "5. 表に関するタグ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題1",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef337808f8a33f3a85747e022.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-10T13:50:00.000Z"
+  },
+  {
+    "id": "24ba501ef33780918917e5fae94158fe",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 42,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "演習問題5",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "作成する問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef33780918917e5fae94158fe.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-15T09:28:00.000Z"
+  },
+  {
+    "id": "24ba501ef33780e6b96fd7eadaa901ad",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "⌨️",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 43,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "6. フォームに関するタグ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "練習問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef33780e6b96fd7eadaa901ad.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-10-05T03:47:00.000Z"
+  },
+  {
+    "id": "24ba501ef337805db232cfe5deefbd55",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "🔗",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 44,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "7.リンクに関するタグ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "練習問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef337805db232cfe5deefbd55.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-10T13:51:00.000Z"
+  },
+  {
+    "id": "24ba501ef337802cbf85d1ad6091cc1e",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 45,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "演習問題6",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "作成する問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef337802cbf85d1ad6091cc1e.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-09-19T01:26:00.000Z"
+  },
+  {
+    "id": "24ba501ef33780868c69e83ac9cafc32",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/tag_orange.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 46,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "8. 体裁を整えるタグとCSS",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "練習問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef33780868c69e83ac9cafc32.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-11T07:05:00.000Z"
+  },
+  {
+    "id": "24ba501ef33780bd837ee391fe4c5635",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 47,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "演習問題7",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef33780bd837ee391fe4c5635.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-09-19T01:26:00.000Z"
+  },
+  {
+    "id": "24ba501ef337805282f6fb088ef57af6",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/activity_purple.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 48,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "9. HTMLファイルとCSSファイルの分離",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "練習問題1",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef337805282f6fb088ef57af6.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-10T13:53:00.000Z"
+  },
+  {
+    "id": "24ba501ef33780c680beec31f1976f83",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 49,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "演習問題8",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef33780c680beec31f1976f83.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-09-19T01:27:00.000Z"
+  },
+  {
+    "id": "24ba501ef3378050b7f7db36a1cd6c75",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/checkmark-square_green.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 50,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "10. クラス名とセレクター",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題１",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef3378050b7f7db36a1cd6c75.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-10T13:53:00.000Z"
+  },
+  {
+    "id": "24ba501ef337807c9bb7e37598f43272",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 51,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "演習問題9",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef337807c9bb7e37598f43272.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-09-19T01:26:00.000Z"
+  },
+  {
+    "id": "24ba501ef3378060892ed2d23d1ea1ec",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/wall_lightgray.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 52,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "11. ボーダー",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題１",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef3378060892ed2d23d1ea1ec.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-10-05T03:49:00.000Z"
+  },
+  {
+    "id": "24ba501ef33780a4a3f4eb234d807dfe",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "🔢",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 53,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "12. 擬似クラス : ◯個目の子要素",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題１",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef33780a4a3f4eb234d807dfe.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-10T13:54:00.000Z"
+  },
+  {
+    "id": "24ba501ef3378069a67fdc413a0c4ec7",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 54,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "演習問題10",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef3378069a67fdc413a0c4ec7.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-09-19T01:26:00.000Z"
+  },
+  {
+    "id": "24ba501ef33780aa9d68dd141d08f635",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/cursor-click_gray.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 55,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "13. 擬似クラス : ユーザーの操作と状態",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題１",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef33780aa9d68dd141d08f635.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-09-16T11:58:00.000Z"
+  },
+  {
+    "id": "24ba501ef33780bd89a7c708a73b73bc",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 56,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "演習問題11",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef33780bd89a7c708a73b73bc.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-09-19T01:27:00.000Z"
+  },
+  {
+    "id": "24ba501ef33780e8af31de34146e0db5",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/playback-pause_red.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 57,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "14. フレックスボックス",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題１",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef33780e8af31de34146e0db5.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-08-10T13:55:00.000Z"
+  },
+  {
+    "id": "24ba501ef33780ce8fd6e2a7fc622ed5",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 58,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "演習問題12",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef33780ce8fd6e2a7fc622ed5.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-09-19T01:27:00.000Z"
+  },
+  {
+    "id": "24ba501ef33780639d95f52543138802",
+    "curriculumId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 59,
+    "parentId": "24ba501ef33780e683f3dec2d9cb8a44",
+    "title": "演習問題13：仕上げ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/24ba501ef33780639d95f52543138802.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "CSS"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-09-19T01:27:00.000Z"
+  },
+  {
+    "id": "256a501ef33780a9a46fc17219f411da",
+    "curriculumId": "256a501ef33780a9a46fc17219f411da",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/git_orange.svg",
+    "coverUrl": "https://www.notion.so/images/page-cover/met_edgar_degas_1874.jpg",
+    "coverType": "external",
+    "order": 112,
+    "parentId": "",
+    "title": "Git, Github",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "セットアップがまだの方は、こちら（→Git、GitHubセットアップ ）でセットアップの方法を解説しています。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/256a501ef33780a9a46fc17219f411da.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Git",
+      "GitHub"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2026-01-04T10:23:00.000Z"
+  },
+  {
+    "id": "26aa501ef33780ea9c00c101544df5e6",
+    "curriculumId": "256a501ef33780a9a46fc17219f411da",
+    "iconType": "emoji",
+    "iconUrl": "❓",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 3,
+    "parentId": "256a501ef33780a9a46fc17219f411da",
+    "title": "Git、Githubとは ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここでは「そもそもGit、GitHubとは何？」について説明します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/26aa501ef33780ea9c00c101544df5e6.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Git",
+      "GitHub"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-09-19T00:46:00.000Z"
+  },
+  {
+    "id": "266a501ef337808e8078e09ab83d6de8",
+    "curriculumId": "256a501ef33780a9a46fc17219f411da",
+    "iconType": "emoji",
+    "iconUrl": "🔰",
+    "coverUrl": "https://www.notion.so/images/page-cover/nasa_fingerprints_of_water_on_the_sand.jpg",
+    "coverType": "external",
+    "order": 4,
+    "parentId": "256a501ef33780a9a46fc17219f411da",
+    "title": "Git,GitHubのはじめ方",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここではGit、GitHubを始める上で必須となる操作方法を説明します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/266a501ef337808e8078e09ab83d6de8.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Git",
+      "GitHub"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-09-19T00:53:00.000Z"
+  },
+  {
+    "id": "26aa501ef33780cab7cae768aa7bc7f0",
+    "curriculumId": "256a501ef33780a9a46fc17219f411da",
+    "iconType": "emoji",
+    "iconUrl": "👥",
+    "coverUrl": "https://www.notion.so/images/page-cover/met_terracotta_funerary_plaque.jpg",
+    "coverType": "external",
+    "order": 5,
+    "parentId": "256a501ef33780a9a46fc17219f411da",
+    "title": "チーム開発での使い方",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "チーム開発でGit、GitHubを使う方法を説明します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/26aa501ef33780cab7cae768aa7bc7f0.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Git",
+      "GitHub"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-09-19T02:50:00.000Z"
+  },
+  {
+    "id": "272a501ef33780c7a5e6fb2c06746bc3",
+    "curriculumId": "256a501ef33780a9a46fc17219f411da",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/merge_red.svg",
+    "coverUrl": "https://www.notion.so/images/page-cover/met_paul_signac.jpg",
+    "coverType": "external",
+    "order": 6,
+    "parentId": "256a501ef33780a9a46fc17219f411da",
+    "title": "競合エラーの原因と解決方法",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここではGit,GitHubでよく起こる競合状態と、その解決法であるマージの方法について説明します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef33780c7a5e6fb2c06746bc3.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Git",
+      "GitHub"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-12-04T02:09:00.000Z"
+  },
+  {
+    "id": "273a501ef337803d879cc2d7157f3fe6",
+    "curriculumId": "256a501ef33780a9a46fc17219f411da",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/branch-merge_orange.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 7,
+    "parentId": "256a501ef33780a9a46fc17219f411da",
+    "title": "ブランチを分ける",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここではGitHubのブランチについて説明します",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/273a501ef337803d879cc2d7157f3fe6.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Git",
+      "GitHub"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-11-28T10:28:00.000Z"
+  },
+  {
+    "id": "277a501ef33780b786eee25597018d01",
+    "curriculumId": "256a501ef33780a9a46fc17219f411da",
+    "iconType": "emoji",
+    "iconUrl": "🌐",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 10,
+    "parentId": "256a501ef33780a9a46fc17219f411da",
+    "title": "リモートとローカルについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここでは、リモートとローカルについて補足します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/277a501ef33780b786eee25597018d01.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Git",
+      "GitHub"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-12-08T06:34:00.000Z"
+  },
+  {
+    "id": "2c3a501ef33780cf9a87d90191b07681",
+    "curriculumId": "256a501ef33780a9a46fc17219f411da",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/new-document_orange.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 11,
+    "parentId": "256a501ef33780a9a46fc17219f411da",
+    "title": "Push時のコマンドについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここではPushするときのコマンドをリモートとローカルについての知識を踏まえて改めて説明します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2c3a501ef33780cf9a87d90191b07681.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Git",
+      "GitHub"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-12-08T07:07:00.000Z"
+  },
+  {
+    "id": "2c3a501ef33780bd9acaf29783b9d4f8",
+    "curriculumId": "256a501ef33780a9a46fc17219f411da",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/archive_orange.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 12,
+    "parentId": "256a501ef33780a9a46fc17219f411da",
+    "title": "ステージとコミットについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここでは「ステージ」と「コミット」について補足します。Gitは実際には３つの領域で管理されており、これを理解すると「ステージ」や「コミット」について理解が深まります。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2c3a501ef33780bd9acaf29783b9d4f8.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Git",
+      "GitHub"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-12-09T09:24:00.000Z"
+  },
+  {
+    "id": "2c4a501ef3378035bc9ecd0f750c8309",
+    "curriculumId": "256a501ef33780a9a46fc17219f411da",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/database_orange.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 13,
+    "parentId": "256a501ef33780a9a46fc17219f411da",
+    "title": "リポジトリについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここではリポジトリについて改めて補足します。リポジトリ (repository) は、ファイルとその変更履歴を保存する場所です。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2c4a501ef3378035bc9ecd0f750c8309.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Git",
+      "GitHub"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-12-09T10:00:00.000Z"
+  },
+  {
+    "id": "273a501ef337807dad51ea377d446b60",
+    "curriculumId": "256a501ef33780a9a46fc17219f411da",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/bomb_orange.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 14,
+    "parentId": "256a501ef33780a9a46fc17219f411da",
+    "title": "not a git repositoryエラーについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "gitでは、not a git repositoryというエラーが起きることがあります。ここではその原因と解決方法を紹介します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/273a501ef337807dad51ea377d446b60.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Git",
+      "GitHub"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-12-09T10:23:00.000Z"
+  },
+  {
+    "id": "272a501ef3378040af9bfae333f7427a",
+    "curriculumId": "272a501ef3378040af9bfae333f7427a",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/hammer_pink.svg",
+    "coverUrl": "https://www.notion.so/images/page-cover/met_vincent_van_gogh_ginoux.jpg",
+    "coverType": "external",
+    "order": 1005,
+    "parentId": "",
+    "title": "アプリケーションアーキテクチャ基礎",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここでは、アプリケーションを設計する際に必要となるアプリケーションアーキテクチャの基礎を学べます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef3378040af9bfae333f7427a.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "アーキテクチャ",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2026-01-04T10:23:00.000Z"
+  },
+  {
+    "id": "272a501ef33781dc8baac66b37fc5454",
+    "curriculumId": "272a501ef3378040af9bfae333f7427a",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/question-mark_pink.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 0,
+    "parentId": "272a501ef337800ea312cc759fe5f747",
+    "title": "アプリケーションアーキテクチャとは",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回はアプリケーションアーキテクチャとは何か、その概要について説明します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef33781dc8baac66b37fc5454.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "アーキテクチャ",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-09-18T15:44:00.000Z"
+  },
+  {
+    "id": "272a501ef337814b9fd0cd3ad7f764b5",
+    "curriculumId": "272a501ef3378040af9bfae333f7427a",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/list-indent_pink.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 1,
+    "parentId": "272a501ef337800ea312cc759fe5f747",
+    "title": "MVCについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回はアプリケーションアーキテクチャの中のMVCに焦点を当てて説明します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef337814b9fd0cd3ad7f764b5.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "アーキテクチャ",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-09-18T15:44:00.000Z"
+  },
+  {
+    "id": "272a501ef33781d084bbfc2e5f939f86",
+    "curriculumId": "272a501ef3378040af9bfae333f7427a",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/soccer_pink.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 0,
+    "parentId": "272a501ef3378081b041d471cbc6b775",
+    "title": "FletでTodoアプリを作ってMVCを学ぼう",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここからは実際にTodoアプリを作りながらMVCを説明します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef33781d084bbfc2e5f939f86.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "アーキテクチャ",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-09-18T15:44:00.000Z"
+  },
+  {
+    "id": "272a501ef337819297bbc044d7ec9435",
+    "curriculumId": "272a501ef3378040af9bfae333f7427a",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/code-scan_pink.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 1,
+    "parentId": "272a501ef3378081b041d471cbc6b775",
+    "title": "UIを作る",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回は、TodoアプリのUI部分を作っていきます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef337819297bbc044d7ec9435.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "アーキテクチャ",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-10-27T06:47:00.000Z"
+  },
+  {
+    "id": "272a501ef337813296cad82d242bbe2b",
+    "curriculumId": "272a501ef3378040af9bfae333f7427a",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/snippet_gray.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 37,
+    "parentId": "272a501ef337819297bbc044d7ec9435",
+    "title": "コード全体",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "main.py",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef337813296cad82d242bbe2b.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "アーキテクチャ",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-10-27T06:47:00.000Z"
+  },
+  {
+    "id": "272a501ef33781adab70e985dba92d6d",
+    "curriculumId": "272a501ef3378040af9bfae333f7427a",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/branch-create_pink.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 2,
+    "parentId": "272a501ef3378081b041d471cbc6b775",
+    "title": "ロジックを作る",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回はTodoアプリのロジック部分を作ります。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef33781adab70e985dba92d6d.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "アーキテクチャ",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-12-15T06:28:00.000Z"
+  },
+  {
+    "id": "272a501ef33781c0a447c9f0ed2b7e0a",
+    "curriculumId": "272a501ef3378040af9bfae333f7427a",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/snippet_gray.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 51,
+    "parentId": "272a501ef33781adab70e985dba92d6d",
+    "title": "コード全体",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "main.py",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef33781c0a447c9f0ed2b7e0a.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "アーキテクチャ",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-10-27T06:51:00.000Z"
+  },
+  {
+    "id": "272a501ef33781caa5c3c4263114cacd",
+    "curriculumId": "272a501ef3378040af9bfae333f7427a",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/database_pink.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 3,
+    "parentId": "272a501ef3378081b041d471cbc6b775",
+    "title": "Model層を作る",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回から前回完成させたTodoアプリをMVCに従って役割を分けていきます。今回は、その中でもModel層を作っていきます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef33781caa5c3c4263114cacd.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "アーキテクチャ",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-10-27T06:51:00.000Z"
+  },
+  {
+    "id": "272a501ef337818fbe91fe0e2443154a",
+    "curriculumId": "272a501ef3378040af9bfae333f7427a",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/snippet_gray.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 71,
+    "parentId": "272a501ef33781caa5c3c4263114cacd",
+    "title": "コード全体",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "main.py",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef337818fbe91fe0e2443154a.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "アーキテクチャ",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-10-27T06:52:00.000Z"
+  },
+  {
+    "id": "272a501ef3378142bdacdfdaaf90b0c8",
+    "curriculumId": "272a501ef3378040af9bfae333f7427a",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/video-game-classic_pink.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 4,
+    "parentId": "272a501ef3378081b041d471cbc6b775",
+    "title": "Controller層を作る",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回はController層を作成します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef3378142bdacdfdaaf90b0c8.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "アーキテクチャ",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-10-27T06:53:00.000Z"
+  },
+  {
+    "id": "272a501ef337811c8b94c8697bb7dcfa",
+    "curriculumId": "272a501ef3378040af9bfae333f7427a",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/snippet_gray.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 54,
+    "parentId": "272a501ef3378142bdacdfdaaf90b0c8",
+    "title": "コード全体",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "main.py",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef337811c8b94c8697bb7dcfa.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "アーキテクチャ",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-10-27T06:55:00.000Z"
+  },
+  {
+    "id": "272a501ef33781b4ab85c626f335c399",
+    "curriculumId": "272a501ef3378040af9bfae333f7427a",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/preview_pink.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 5,
+    "parentId": "272a501ef3378081b041d471cbc6b775",
+    "title": "View層を作る",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回は、View層を作成していきます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef33781b4ab85c626f335c399.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "アーキテクチャ",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-10-27T06:54:00.000Z"
+  },
+  {
+    "id": "272a501ef33781058a2bca3e87117967",
+    "curriculumId": "272a501ef3378040af9bfae333f7427a",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/snippet_gray.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 41,
+    "parentId": "272a501ef33781b4ab85c626f335c399",
+    "title": "コード全体",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "main.py",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef33781058a2bca3e87117967.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "アーキテクチャ",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "技術ガイド"
+    ],
+    "last_edited_time": "2025-10-27T06:55:00.000Z"
+  },
+  {
+    "id": "28aa501ef337805185e6e399d399ac90",
+    "curriculumId": "28aa501ef337805185e6e399d399ac90",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/meeting_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 120,
+    "parentId": "",
+    "title": "チーム開発",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/28aa501ef337805185e6e399d399ac90.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2026-01-04T10:23:00.000Z"
+  },
+  {
+    "id": "28ba501ef337809ab5d3e90f123eb8c7",
+    "curriculumId": "28aa501ef337805185e6e399d399ac90",
+    "iconType": "emoji",
+    "iconUrl": "💻",
+    "coverUrl": "https://www.notion.so/images/page-cover/nasa_ibm_type_704.jpg",
+    "coverType": "external",
+    "order": 0,
+    "parentId": "28aa501ef337805185e6e399d399ac90",
+    "title": "第1回チーム開発について",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "目標：ハッカソンに向け、チームでの開発を身につける",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/28ba501ef337809ab5d3e90f123eb8c7.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-11-05T13:08:00.000Z"
+  },
+  {
+    "id": "28ba501ef33780199be2df02371fb29b",
+    "curriculumId": "28aa501ef337805185e6e399d399ac90",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 25,
+    "parentId": "28ba501ef337809ab5d3e90f123eb8c7",
+    "title": "タスク管理表（見本）",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/28ba501ef33780199be2df02371fb29b.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-10-18T05:12:00.000Z"
+  },
+  {
+    "id": "2aaa501ef337807abd11f1b8f4e661a2",
+    "curriculumId": "28aa501ef337805185e6e399d399ac90",
+    "iconType": "emoji",
+    "iconUrl": "💻",
+    "coverUrl": "https://www.notion.so/images/page-cover/nasa_ibm_type_704.jpg",
+    "coverType": "external",
+    "order": 1,
+    "parentId": "28aa501ef337805185e6e399d399ac90",
+    "title": "第2回チーム開発について",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "目標：ハッカソンに向け、チームでの開発を身につける",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2aaa501ef337807abd11f1b8f4e661a2.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-11-14T06:19:00.000Z"
+  },
+  {
+    "id": "2aba501ef33780e89515c59e3df96b94",
+    "curriculumId": "28aa501ef337805185e6e399d399ac90",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 28,
+    "parentId": "2aaa501ef337807abd11f1b8f4e661a2",
+    "title": "タスク管理表（見本）",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2aba501ef33780e89515c59e3df96b94.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-11-14T04:23:00.000Z"
+  },
+  {
+    "id": "2bca501ef337805c92e1c507b61498f7",
+    "curriculumId": "28aa501ef337805185e6e399d399ac90",
+    "iconType": "emoji",
+    "iconUrl": "💻",
+    "coverUrl": "https://www.notion.so/images/page-cover/nasa_ibm_type_704.jpg",
+    "coverType": "external",
+    "order": 2,
+    "parentId": "28aa501ef337805185e6e399d399ac90",
+    "title": "ハッカソンについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回、優秀な開発物には豪華なリワードがあるので奮って開発を進めていきましょう！(内容が確定次第追記・通知します)",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2bca501ef337805c92e1c507b61498f7.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-12-05T08:40:00.000Z"
+  },
+  {
+    "id": "2bca501ef33781beaa94e00b0368dbe8",
+    "curriculumId": "28aa501ef337805185e6e399d399ac90",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 3,
+    "parentId": "2bca501ef337809ba41bdb202b82a918",
+    "title": "タスク管理表（見本）",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2bca501ef33781beaa94e00b0368dbe8.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-12-01T17:07:00.000Z"
+  },
+  {
+    "id": "2c7a501ef3378027b627d12ad61e4a21",
+    "curriculumId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/question-mark_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 2,
+    "parentId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "title": "Webアプリとは",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Webアプリとは、Webアプリとは、インターネットを通じてWebブラウザ上で利用できるアプリのことです。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2c7a501ef3378027b627d12ad61e4a21.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "サーバー"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-12-13T06:09:00.000Z"
+  },
+  {
+    "id": "2c7a501ef337804eb393f2b6b1123ac7",
+    "curriculumId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/server_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 3,
+    "parentId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "title": "Webサーバーについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "サーバーとは",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2c7a501ef337804eb393f2b6b1123ac7.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "サーバー"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-12-13T05:17:00.000Z"
+  },
+  {
+    "id": "2c8a501ef33780b0958cfbe4315cd0f2",
+    "curriculumId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/username_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 4,
+    "parentId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "title": "URLについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "基本的にブラウザからサーバーにリクエストするときは、URL（Uniform Resource Locator）と呼ばれるネットワーク上の住所を指定します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2c8a501ef33780b0958cfbe4315cd0f2.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "サーバー"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-12-26T01:55:00.000Z"
+  },
+  {
+    "id": "2c8a501ef33780a48908ef6886462f93",
+    "curriculumId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/cellular_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 5,
+    "parentId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "title": "HTTPについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "HTTPとは通信のルールのようなもので、Webアプリは基本的にHTTPというルールで通信しています。このネットワーク通信でのルールをプロトコルと言います。HTTPはプロトコルの一種です。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2c8a501ef33780a48908ef6886462f93.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "サーバー"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-12-13T05:38:00.000Z"
+  },
+  {
+    "id": "2c8a501ef337804ba440e500391055f8",
+    "curriculumId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/code_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 7,
+    "parentId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "title": "HTMLについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "HTMLとは、Webページの「構造」と「内容」を記述するためのマークアップ言語です",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2c8a501ef337804ba440e500391055f8.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "サーバー"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-12-14T09:20:00.000Z"
+  },
+  {
+    "id": "2c8a501ef33780718408d710b10bc242",
+    "curriculumId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/computer-chip_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 8,
+    "parentId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "title": "バックエンドについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "バックエンドとは、サーバーで、Webアプリの処理・判断・データ管理を行う部分です。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2c8a501ef33780718408d710b10bc242.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "サーバー"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-12-13T06:29:00.000Z"
+  },
+  {
+    "id": "2c8a501ef337801e84ccf3dfc1723b4b",
+    "curriculumId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/archive_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 9,
+    "parentId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "title": "ミドルウェアについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Webサーバーのミドルウェアとは、OSとアプリケーションの間に入り、Web通信や処理を共通的に支えるソフトウェアです。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2c8a501ef337801e84ccf3dfc1723b4b.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "サーバー"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-12-13T07:30:00.000Z"
+  },
+  {
+    "id": "2c8a501ef337803fa6cdfc08d24c3443",
+    "curriculumId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/art_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 10,
+    "parentId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "title": "フレームワークについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Webアプリのフレームワークとは、Webアプリを効率よく、正しく作るための“土台”や“型”です。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2c8a501ef337803fa6cdfc08d24c3443.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "サーバー"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-12-13T07:37:00.000Z"
+  },
+  {
+    "id": "2c8a501ef337807cbe63df809cb0ac68",
+    "curriculumId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/hammer_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 11,
+    "parentId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "title": "Webアプリを開発するには？",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Webアプリ開発とは、フロントエンド・バックエンド・データベースを組み合わせてサービスを作ることです。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2c8a501ef337807cbe63df809cb0ac68.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "サーバー"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2025-12-13T07:36:00.000Z"
+  },
+  {
+    "id": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "curriculumId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "iconType": "emoji",
+    "iconUrl": "🌐",
+    "coverUrl": "https://www.notion.so/images/page-cover/nasa_transonic_tunnel.jpg",
+    "coverType": "external",
+    "order": 1102,
+    "parentId": "",
+    "title": "Webアプリのガイド",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Webアプリを作成しようとすると前提知識が多いです。このページでは、Webアプリを作るにあたって前提となる知識や用語を中心に説明しています。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2c4a501ef337809e8d3aef9f6f2340c1.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "サーバー"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2026-01-04T10:23:00.000Z"
+  },
+  {
+    "id": "2c8a501ef33780d5a1e3e42f0d0af4c2",
+    "curriculumId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/document_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 6,
+    "parentId": "2c4a501ef337809e8d3aef9f6f2340c1",
+    "title": "Webサイトについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Webサイトとは",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2c8a501ef33780d5a1e3e42f0d0af4c2.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "web",
+      "HTML",
+      "サーバー"
+    ],
+    "category": [
+      "Webコース"
+    ],
+    "last_edited_time": "2026-01-04T07:49:00.000Z"
+  },
+  {
+    "id": "1ada501ef3378122b26fd5ed2f5d6a1b",
+    "curriculumId": "1ada501ef3378122b26fd5ed2f5d6a1b",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/gear_orange.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 10,
+    "parentId": "",
+    "title": "Git、GitHubセットアップ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここでは活動で使用するツールであるGitのインストールとGithubのアカウント登録をする方法を説明します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef3378122b26fd5ed2f5d6a1b.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "基礎班",
+      "Git",
+      "GitHub",
+      "セットアップ"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2026-01-04T11:11:00.000Z"
+  },
+  {
+    "id": "1ada501ef337814bac7dcbd864901138",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "custom_emoji",
+    "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/assets/1ada501ef337814bac7dcbd864901138/icon.png",
+    "coverUrl": "https://images.unsplash.com/photo-1494783367193-149034c05e8f?ixlib=rb-4.0.3\u0026q=85\u0026fm=jpg\u0026crop=entropy\u0026cs=srgb\u0026w=3600",
+    "coverType": "external",
+    "order": 6,
+    "parentId": "",
+    "title": "Python基礎文法",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここでは、プログラミング初学者におすすめとされるプログラミング言語であるPythonの基礎文法を学びます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1ada501ef337814bac7dcbd864901138.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2026-01-04T11:11:00.000Z"
+  },
+  {
+    "id": "1dfa501ef33780b39835e82769bd01f8",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 2,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "0. VSCodeでプログラムを始める",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここではVSCode(Visual Studio Code)でpythonを始める方法を説明します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1dfa501ef33780b39835e82769bd01f8.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-04-24T07:13:00.000Z"
+  },
+  {
+    "id": "1b8a501ef337806c8615f492e93f80b0",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 3,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "1. Hello World! ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Pythonの学習の第一歩として、好きな言葉を画面に表示する方法を学びましょう。次のようなプログラムを書いてみましょう。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1b8a501ef337806c8615f492e93f80b0.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-03-16T05:08:00.000Z"
+  },
+  {
+    "id": "1b8a501ef33780f1af62f3552733a81d",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 4,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "2. 変数 ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "前回(1.Hello World)",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1b8a501ef33780f1af62f3552733a81d.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-03-16T05:07:00.000Z"
+  },
+  {
+    "id": "1b8a501ef3378064b0e1f200f4276e5e",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 5,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "3. 変数の型",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "前回(2.変数)",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1b8a501ef3378064b0e1f200f4276e5e.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-08-15T14:36:00.000Z"
+  },
+  {
+    "id": "1b8a501ef33780f0a9cdf0d196c362de",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 6,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "4. 四則演算 ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "前回(3.変数の型)",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1b8a501ef33780f0a9cdf0d196c362de.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-02T13:42:00.000Z"
+  },
+  {
+    "id": "1b8a501ef33780baa251c8fe9f1c8cc2",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 7,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "練習問題1",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "前回(4.四則演算)",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1b8a501ef33780baa251c8fe9f1c8cc2.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-08-15T06:41:00.000Z"
+  },
+  {
+    "id": "1b8a501ef33780819a0cd8aafc4b4c17",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 8,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "5. 入力",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "前回(練習問題1)",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1b8a501ef33780819a0cd8aafc4b4c17.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-08-15T14:52:00.000Z"
+  },
+  {
+    "id": "1b8a501ef337800d909dc7f9943aba15",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 9,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "6. 条件分岐（if文）",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "前回(5.入力)",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1b8a501ef337800d909dc7f9943aba15.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-12-01T07:47:00.000Z"
+  },
+  {
+    "id": "1b8a501ef3378040be11fcc20622dd7c",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 10,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "練習問題2 ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "前回と前々回の内容の問題です。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1b8a501ef3378040be11fcc20622dd7c.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-08-11T06:28:00.000Z"
+  },
+  {
+    "id": "1b8a501ef33780329beede1f29e138fa",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 11,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "7. リストと辞書",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "前回(練習問題2)",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1b8a501ef33780329beede1f29e138fa.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-03-16T05:05:00.000Z"
+  },
+  {
+    "id": "1b8a501ef33780a5a084f584f95197c5",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 12,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "8. 繰り返し（for文）",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "前回(7.リストと辞書)",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1b8a501ef33780a5a084f584f95197c5.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-03-16T05:04:00.000Z"
+  },
+  {
+    "id": "1b8a501ef337803f8590d0737976ab27",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 13,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "練習問題3",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "前々回（リストと辞書）、前回(for文を使った繰り返し)の練習問題です。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1b8a501ef337803f8590d0737976ab27.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-08-11T06:29:00.000Z"
+  },
+  {
+    "id": "1b8a501ef33780fab3cec5016923e198",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 14,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "9. 文字列",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "前回(練習問題3)",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1b8a501ef33780fab3cec5016923e198.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-06-13T10:14:00.000Z"
+  },
+  {
+    "id": "1b8a501ef33780108067de8083f6ecc5",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 15,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "練習問題4",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題1",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1b8a501ef33780108067de8083f6ecc5.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-08-11T06:29:00.000Z"
+  },
+  {
+    "id": "1b8a501ef3378022a217fb1418047a05",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 16,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "10. 関数とは",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回はプログラミングを行う上でとても重要な、関数について学びます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1b8a501ef3378022a217fb1418047a05.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-03-16T05:02:00.000Z"
+  },
+  {
+    "id": "1b8a501ef337802fa0f0c6e94d32d3bf",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 17,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "11. 関数を作ろう！",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "前章で解説した関数は、実は自分で作ることもできます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1b8a501ef337802fa0f0c6e94d32d3bf.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-23T10:41:00.000Z"
+  },
+  {
+    "id": "1b8a501ef337804eada7c904a1585fd1",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 18,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "練習問題5",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題1",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1b8a501ef337804eada7c904a1585fd1.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-08-11T06:29:00.000Z"
+  },
+  {
+    "id": "1dfa501ef3378051a42ff0790a6a502a",
+    "curriculumId": "1ada501ef337814bac7dcbd864901138",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 19,
+    "parentId": "1ada501ef337814bac7dcbd864901138",
+    "title": "Pythonまとめ問題",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題１",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1dfa501ef3378051a42ff0790a6a502a.png"
+    },
+    "visibility": [
+      "体験入部",
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-10-02T01:30:00.000Z"
+  },
+  {
+    "id": "1bea501ef337804c90e8da6f1f5384c1",
+    "curriculumId": "1bea501ef337804c90e8da6f1f5384c1",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/keyboard_lightgray.svg",
+    "coverUrl": "https://images.unsplash.com/photo-1600860701935-40f338f8d793?ixlib=rb-4.0.3\u0026q=85\u0026fm=jpg\u0026crop=entropy\u0026cs=srgb\u0026w=3600",
+    "coverType": "external",
+    "order": 8,
+    "parentId": "",
+    "title": "CLIの基礎",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "CLIってなに？",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1bea501ef337804c90e8da6f1f5384c1.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "基礎班",
+      "CLI",
+      "VSCode"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2026-01-04T11:11:00.000Z"
+  },
+  {
+    "id": "1f0a501ef33780d8a091da399b7fa1e2",
+    "curriculumId": "1bea501ef337804c90e8da6f1f5384c1",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/grid_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 22,
+    "parentId": "1bea501ef337804c90e8da6f1f5384c1",
+    "title": "for Windows(PowerShell)",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "目次",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f0a501ef33780d8a091da399b7fa1e2.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "基礎班",
+      "CLI",
+      "VSCode"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-11T16:48:00.000Z"
+  },
+  {
+    "id": "1f0a501ef33780079a3ff6f6db3fec52",
+    "curriculumId": "1bea501ef337804c90e8da6f1f5384c1",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/apple_red.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 23,
+    "parentId": "1bea501ef337804c90e8da6f1f5384c1",
+    "title": "for Mac(zsh)",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "目次",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f0a501ef33780079a3ff6f6db3fec52.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "基礎班",
+      "CLI",
+      "VSCode"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-11T16:48:00.000Z"
+  },
+  {
+    "id": "1d8a501ef337800c9ae8ca9153877fc1",
+    "curriculumId": "1d8a501ef337800c9ae8ca9153877fc1",
+    "iconType": "emoji",
+    "iconUrl": "💫",
+    "coverUrl": "https://images.unsplash.com/photo-1621508654686-809f23efdabc?ixlib=rb-4.0.3\u0026q=85\u0026fm=jpg\u0026crop=entropy\u0026cs=srgb",
+    "coverType": "external",
+    "order": 1,
+    "parentId": "",
+    "title": "Horizonではじめにやること！",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Horizonでプログラミングをしていくために必要な準備をしていきましょう！",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1d8a501ef337800c9ae8ca9153877fc1.png"
+    },
+    "visibility": [
+      "基礎班",
+      "体験入部",
+      "発展班",
+      "ゲスト"
+    ],
+    "tag": [
+      "Python",
+      "基礎班",
+      "VSCode",
+      "Discord",
+      "VisualStudioCode",
+      "Canva"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2026-01-04T11:11:00.000Z"
+  },
+  {
+    "id": "1d8a501ef3378046aa5fe50c89a862f6",
+    "curriculumId": "1d8a501ef337800c9ae8ca9153877fc1",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/save_blue.svg",
+    "coverUrl": "https://images.unsplash.com/photo-1491382825904-a4c6dca98e8c?ixlib=rb-4.0.3\u0026q=85\u0026fm=jpg\u0026crop=entropy\u0026cs=srgb",
+    "coverType": "external",
+    "order": 0,
+    "parentId": "1d8a501ef3378092959dd4df91e6277f",
+    "title": "Pythonのインストール",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここでは、これから活動で使用するプログラミング言語である Python をインストールする方法を紹介します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1d8a501ef3378046aa5fe50c89a862f6.png"
+    },
+    "visibility": [
+      "基礎班",
+      "体験入部",
+      "発展班",
+      "ゲスト"
+    ],
+    "tag": [
+      "Python",
+      "基礎班",
+      "VSCode",
+      "Discord",
+      "VisualStudioCode",
+      "Canva"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-04-17T14:59:00.000Z"
+  },
+  {
+    "id": "1d8a501ef33780a8846dcdc0f52c57b8",
+    "curriculumId": "1d8a501ef337800c9ae8ca9153877fc1",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/move-document_orange.svg",
+    "coverUrl": "https://www.notion.so/images/page-cover/rijksmuseum_jansz_1636.jpg",
+    "coverType": "external",
+    "order": 0,
+    "parentId": "1d8a501ef33780c9a2f2e2553bc27a75",
+    "title": "Visual Studio Codeのチュートリアル",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "1. VSCodeとは？",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1d8a501ef33780a8846dcdc0f52c57b8.png"
+    },
+    "visibility": [
+      "基礎班",
+      "体験入部",
+      "発展班",
+      "ゲスト"
+    ],
+    "tag": [
+      "Python",
+      "基礎班",
+      "VSCode",
+      "Discord",
+      "VisualStudioCode",
+      "Canva"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-04-17T15:01:00.000Z"
+  },
+  {
+    "id": "1d8a501ef33781569349f0f8face44f2",
+    "curriculumId": "1d8a501ef337800c9ae8ca9153877fc1",
+    "iconType": "emoji",
+    "iconUrl": "🪟",
+    "coverUrl": "https://www.notion.so/images/page-cover/met_fitz_henry_lane.jpg",
+    "coverType": "external",
+    "order": 0,
+    "parentId": "1d8a501ef337816d891bfea92cb044a2",
+    "title": "VSCodeのチュートリアル：Windows",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "VSCodeのインストール",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1d8a501ef33781569349f0f8face44f2.png"
+    },
+    "visibility": [
+      "基礎班",
+      "体験入部",
+      "発展班",
+      "ゲスト"
+    ],
+    "tag": [
+      "Python",
+      "基礎班",
+      "VSCode",
+      "Discord",
+      "VisualStudioCode",
+      "Canva"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-09-16T13:31:00.000Z"
+  },
+  {
+    "id": "1d8a501ef337810292b5ff2f78906951",
+    "curriculumId": "1d8a501ef337800c9ae8ca9153877fc1",
+    "iconType": "emoji",
+    "iconUrl": "🍎",
+    "coverUrl": "https://www.notion.so/images/page-cover/nasa_great_sandy_desert_australia.jpg",
+    "coverType": "external",
+    "order": 1,
+    "parentId": "1d8a501ef337816d891bfea92cb044a2",
+    "title": "VSCodeのチュートリアル：Mac",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "VSCodeのインストール",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1d8a501ef337810292b5ff2f78906951.png"
+    },
+    "visibility": [
+      "基礎班",
+      "体験入部",
+      "発展班",
+      "ゲスト"
+    ],
+    "tag": [
+      "Python",
+      "基礎班",
+      "VSCode",
+      "Discord",
+      "VisualStudioCode",
+      "Canva"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-09-16T13:32:00.000Z"
+  },
+  {
+    "id": "1d8a501ef3378058b91cc0a04b396d44",
+    "curriculumId": "1d8a501ef337800c9ae8ca9153877fc1",
+    "iconType": "file",
+    "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/assets/1d8a501ef3378058b91cc0a04b396d44/icon.png?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Credential=ASIAZI2LB466VIFX6IFU%2F20260104%2Fus-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date=20260104T115131Z\u0026X-Amz-Expires=3600\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGAaCXVzLXdlc3QtMiJIMEYCIQCCv4Vwfb%2FZXzNd6nx5OW%2BlJtQaTHzv%2FFHuvJg7REdsHgIhAJIm6K5RbreCcUw9h6h%2B4cf2rsJBkWEmDh%2Bicmea3s8%2BKv8DCCkQABoMNjM3NDIzMTgzODA1IgzEjbK36nV4TNX9MwAq3ANOAov0qv%2FaM7NzpWfwd%2BYhPZT7xL7bOjR%2BdSqvbKnkgM4XGsQbLvG4nXMX5Y%2Bm4JpqE6jJJ%2BElBtyRECJvY7NddJvVavgn3FtSQG7v1H0Ji6gkXMNGwQiGuLKh6lJnVI6B8ZlizL5jmohgT%2FbrhqCjhM0hZGsykX7B64WB4O62w%2BBNLD%2F7aqyD2zk%2F2HbXlD9ZVp7FVUUB7vcsQaiIBKmhJMXYys9bddMZCP6%2B8PLbuD7TXpZbQbKb333czHjcDEGlRkxj4y3EMBtmuOEIXJZbuPf9%2Ft61IuHYYIoO%2FSxiA%2BSrhsoiWAhAyan%2BiFbF1INNvBw8ViRYBUvTYO10W8Qp3jhUme7QomxCbP2YAO43YFhI%2FW%2BfMS%2F4fHwapYnWmsm4V8WttBzNv8Aa5BxFCZ0ld8yWJH2vvRIqJtwHtlSWNrt0YRHUeSiUOCO5RwFBpp9IYi0RJZ0YEWvH%2BJwcnrepIUrGL1JxaBddbXoAso4tN6pDw1nRJFsHNrqDzXRgrLaYCUbDRRguahJMbGAVDDblvSuFciZqitWKC7ya8pyOEp%2BxdIzsrl0ZQnZu3Zbyx9VvQp2yBp1GXeeifohKq4vZbewzId0V7wXxOgWVuK2k%2BXOTe9wr6j%2BklTwQ2DCqxOjKBjqkAc2keYpPLesswFTrHAfVJCdjt9DDrBsCT9S6nSgwsd4iOOZWSIPQETSdy01rH2DlIeGL95IWuShGdfQvHBxfve2pG6O0J2ynlJ41PWGCnBa63aD1efU0U2dKAWKnxgQ9EP9Z57JJmXEfsCFhIpoN9YHXITUl0pT00DtvmnFEOswhEtu7cz6Syc7WUIngqzdcGUuYDEyjSeU9MlxZpRAsA6%2B7W3Jz\u0026X-Amz-Signature=1e2e5fcfb9b673d84e4c439db96c25f01567c41bb10842ac49f3fdc5b95945fc\u0026X-Amz-SignedHeaders=host\u0026x-amz-checksum-mode=ENABLED\u0026x-id=GetObject",
+    "coverUrl": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-4.0.3\u0026q=85\u0026fm=jpg\u0026crop=entropy\u0026cs=srgb",
+    "coverType": "external",
+    "order": 0,
+    "parentId": "1d8a501ef337802797e0c712e5a097de",
+    "title": "Canvaについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Canvaとは？",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1d8a501ef3378058b91cc0a04b396d44.png"
+    },
+    "visibility": [
+      "基礎班",
+      "体験入部",
+      "発展班",
+      "ゲスト"
+    ],
+    "tag": [
+      "Python",
+      "基礎班",
+      "VSCode",
+      "Discord",
+      "VisualStudioCode",
+      "Canva"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-04-17T15:18:00.000Z"
+  },
+  {
+    "id": "1d8a501ef33780fa90edeffb876c58ba",
+    "curriculumId": "1d8a501ef337800c9ae8ca9153877fc1",
+    "iconType": "file",
+    "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/assets/1d8a501ef33780fa90edeffb876c58ba/icon.png?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Credential=ASIAZI2LB46662CKSYTX%2F20260104%2Fus-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date=20260104T115131Z\u0026X-Amz-Expires=3600\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGEaCXVzLXdlc3QtMiJHMEUCIAh623kEIWGQcTY%2BybTek4ULFCVwHRXvt9%2BN%2Fx4ZIJAtAiEAgTFKfq07SRNVFNoJvBzVXDpEhMUHuUT63SmwgCL7lo4q%2FwMIKhAAGgw2Mzc0MjMxODM4MDUiDCS9xm7VObc6I7rOPircA2KLjFwL79rY3rrnd7WOOcAauBFnqPKDdFTisHkLQah5yuIGM4rr1UmjvyihThuDJa0zgHCzfFw4AngWjeAOC9mpkIIrS5%2F7P%2FEdoaKKoM8TR57iZXf2flFaRnkKl3Fmru92H9y3zP%2B6hqTPEaPa4172N%2FVtndPlYF9TqtvGPm2%2FGcBY9TanLdIaSOpeY5UCBoXY3NdgSsZ4eqx3wXpRQzTVhK2%2FJZ7qIUS5HmQFXzh0o%2FZ4oIdzP79tDASRuLZmur0MynDUxJ2JPabqp8e2%2FFzCOpB2UIiBJE2AEX5cH3drVllYpg83L%2BbE0qfCJ0f17UvkQGwhUwD%2Fip6z6LvPj9pWlZC9gwmwBjVebO11sg17HEfxyZCxk5%2B0fmNk1IOnSVtlFB3S9s58vql6Pg%2FJYp74TaJv4xbWkZOaTf%2B5Z2XLR8n7fqfMwsLZe2%2FW%2BwoMGjRi0p120%2FrfCznIF2yICJC8eUt4PdBwXnJYUVWPBMMOf6uYNBEq8e5Ok9Mkka8dHzAzXWAR8Mn%2BC7Zdi4mnGIp2MIbW7iMAn55VVh8y4lTeOhuz9xa%2BZJC5iTT6JzXISpJixSJHFtaE2RuHQ4Ei1nNRZAGA2KKWtBbm7P8IW9u6Rs5SXnwfsBQ586meMI%2FN6MoGOqUBTqzp3uV0LNUhsUQMKP2tRsRgzJQ74kZM0KLqiqMoxKTRfy9JRJyQplpvDS6djMmRydrLePTyEUvZAizdsetInR%2FzJ6QxkbKahbPBptlq03WNWVjSOfXISoLhpEiNQipMWSMJAJCId9VXh%2FhdzvqzcRFKDorM%2FEqLxdclAxPZGkkzOOXAQoEpKF3uBPOElDsc9Nx6ouux3pYuc19gpnIOmSySVxIa\u0026X-Amz-Signature=78768278a0ea1bcc6f006e741f36edca3104a0eb1ac14764eed12ae115c5c833\u0026X-Amz-SignedHeaders=host\u0026x-amz-checksum-mode=ENABLED\u0026x-id=GetObject",
+    "coverUrl": "https://www.notion.so/images/page-cover/webb1.jpg",
+    "coverType": "external",
+    "order": 0,
+    "parentId": "1d8a501ef337808fbf30cd0b0078f90f",
+    "title": "Discordの使い方",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "目次",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1d8a501ef33780fa90edeffb876c58ba.png"
+    },
+    "visibility": [
+      "基礎班",
+      "体験入部",
+      "発展班",
+      "ゲスト"
+    ],
+    "tag": [
+      "Python",
+      "基礎班",
+      "VSCode",
+      "Discord",
+      "VisualStudioCode",
+      "Canva"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-04-17T15:24:00.000Z"
+  },
+  {
+    "id": "1e7a501ef337805bbc4ed442525244f3",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "🦾",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 500,
+    "parentId": "",
+    "title": "番外編（カリキュラム終わった人向け）",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "実際にゲームやアプリを作ることを通して、プログラミングを学ぶことができるページです。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1e7a501ef337805bbc4ed442525244f3.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2026-01-04T11:11:00.000Z"
+  },
+  {
+    "id": "1eca501ef33780fca5bdf2a1ea7ef2ca",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "☑️",
+    "coverUrl": "https://www.notion.so/images/page-cover/nasa_robert_stewart_spacewalk_2.jpg",
+    "coverType": "external",
+    "order": 4,
+    "parentId": "1e7a501ef337805bbc4ed442525244f3",
+    "title": "数当てゲームをPythonで作ってみよう",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "どうも、としとしやです。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1eca501ef33780fca5bdf2a1ea7ef2ca.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-07T04:37:00.000Z"
+  },
+  {
+    "id": "1eca501ef33781379cadf44a28bc0617",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "📘",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 8,
+    "parentId": "1eca501ef33780fca5bdf2a1ea7ef2ca",
+    "title": "「Numer0n」って何？",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここでは数当てゲーム、「Numer0n(ヌメロン)」について解説します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1eca501ef33781379cadf44a28bc0617.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-07T02:25:00.000Z"
+  },
+  {
+    "id": "1eca501ef3378195ac72cd402b5d391b",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "📘",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 10,
+    "parentId": "1eca501ef33780fca5bdf2a1ea7ef2ca",
+    "title": "1-1 モジュールを使ってみよう",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "まずはじめに、実装する7つの機能の内の1つ、「正解となる3桁および4桁の数字をランダムに設定する。」を作れるようになりましょう。ここでキーワードとなるのは、モジュールです。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1eca501ef3378195ac72cd402b5d391b.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-07T02:25:00.000Z"
+  },
+  {
+    "id": "1eca501ef33781d08bdbed9a375a9245",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "📘",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 11,
+    "parentId": "1eca501ef33780fca5bdf2a1ea7ef2ca",
+    "title": "1-2 乱数を扱ってみよう",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "それでは、早速ランダムに数字を生成できるようにしてみましょう。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1eca501ef33781d08bdbed9a375a9245.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-07T02:25:00.000Z"
+  },
+  {
+    "id": "1eca501ef33781f3a70cedaf1c040177",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "📘",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 12,
+    "parentId": "1eca501ef33780fca5bdf2a1ea7ef2ca",
+    "title": "1-3 無限ループを使ってみよう",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "さて、ここでは実装する7つの機能の内の「プレイヤーの数字が正解の数字と完全一致したなら、ゲームクリアとなりプログラムを終了させる」と「プレイヤーの数字が正解の数字と完全一致していないなら、もう一度プレイヤーが数字を入力させるようにし、正解できるまでプログラムが終わらせないようにする」の二つが作れるようなりましょう。ここでキーワードとなるのは「無限ループ」です。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1eca501ef33781f3a70cedaf1c040177.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-07T02:25:00.000Z"
+  },
+  {
+    "id": "1eca501ef337819aa15fc1cc5e64cda2",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "📗",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 13,
+    "parentId": "1eca501ef33780fca5bdf2a1ea7ef2ca",
+    "title": "1-4 練習問題",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題1",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1eca501ef337819aa15fc1cc5e64cda2.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-07T02:25:00.000Z"
+  },
+  {
+    "id": "1eca501ef337818c9c6dddca1f8feb10",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "📘",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 15,
+    "parentId": "1eca501ef33780fca5bdf2a1ea7ef2ca",
+    "title": "2-1 正解の数字をリスト化しよう",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "それでは、ここからは本格的に「Numer0n」を作っていきましょう！ここでは、3桁verのNumer0nを制作します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1eca501ef337818c9c6dddca1f8feb10.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-07T04:36:00.000Z"
+  },
+  {
+    "id": "1eca501ef337814e95ebc4445ff31b47",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "📘",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 16,
+    "parentId": "1eca501ef33780fca5bdf2a1ea7ef2ca",
+    "title": "2-2 正解の数字を全て異なる数字にしよう",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "続いては、正解の数字を全て異なる数字にするプログラムを作成します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1eca501ef337814e95ebc4445ff31b47.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-07T02:25:00.000Z"
+  },
+  {
+    "id": "1eca501ef337810b9186e990e57dedc1",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "📗",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 17,
+    "parentId": "1eca501ef33780fca5bdf2a1ea7ef2ca",
+    "title": "2-3 練習問題",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題1",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1eca501ef337810b9186e990e57dedc1.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-07T02:25:00.000Z"
+  },
+  {
+    "id": "1eca501ef337817a9e5bc6190535af2e",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "📘",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 19,
+    "parentId": "1eca501ef33780fca5bdf2a1ea7ef2ca",
+    "title": "3-1 入力される数字の桁数を制限しよう",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "いよいよ、ゲーム本編を作っていきます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1eca501ef337817a9e5bc6190535af2e.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-07T02:25:00.000Z"
+  },
+  {
+    "id": "1eca501ef3378166a58be172fea0ca95",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "📘",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 20,
+    "parentId": "1eca501ef33780fca5bdf2a1ea7ef2ca",
+    "title": "3-2 数字や桁の一致判定システムを作成しよう",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "このシステムを作る前に、一旦今まで作った物を合わせてみましょう。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1eca501ef3378166a58be172fea0ca95.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-07T02:25:00.000Z"
+  },
+  {
+    "id": "1eca501ef3378151b8d2da01eb4c2a83",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "📘",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 21,
+    "parentId": "1eca501ef33780fca5bdf2a1ea7ef2ca",
+    "title": "3-3 ゲームクリア判定を作成しよう",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "さぁ、いよいよ大詰めです。最後まで頑張っていきましょう。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1eca501ef3378151b8d2da01eb4c2a83.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-07T02:25:00.000Z"
+  },
+  {
+    "id": "1eca501ef33781e4a7a8c9a25f22dcb5",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "📗",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 22,
+    "parentId": "1eca501ef33780fca5bdf2a1ea7ef2ca",
+    "title": "3-4 練習問題",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題1",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1eca501ef33781e4a7a8c9a25f22dcb5.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-07T02:25:00.000Z"
+  },
+  {
+    "id": "1eca501ef33781d29d15fdd984df7fc6",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "📗",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 24,
+    "parentId": "1eca501ef33780fca5bdf2a1ea7ef2ca",
+    "title": "4-1 処理を待たせられるようにしよう",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここからは、よりゲームらしくするために様々な機能を取り入れるプログラムを作ってもらいます。また、詳しいコードはここでは載せません。アイコンを見てもらうとわかる通り、第4章は全て練習問題となります。ただ、実装するにあたってどうすればいいのかだったり、実装する意味は記述するので、それを参考に作ってみてください。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1eca501ef33781d29d15fdd984df7fc6.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-07T02:25:00.000Z"
+  },
+  {
+    "id": "1eca501ef33781369cadcf4ef1c20633",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "📗",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 25,
+    "parentId": "1eca501ef33780fca5bdf2a1ea7ef2ca",
+    "title": "4-2 3桁モードと4桁モードを選択できるようにしよう",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここではゲームモードを選択できるようにする問題になります。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1eca501ef33781369cadcf4ef1c20633.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-07T02:25:00.000Z"
+  },
+  {
+    "id": "1eca501ef33781e2bb62d04269f9236f",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "📗",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 26,
+    "parentId": "1eca501ef33780fca5bdf2a1ea7ef2ca",
+    "title": "4-3 正解するまでにかかった回数を表示できるようにしよう",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここでは、正解するまでにかかった回数を表示できるようにするプログラムを作る問題になります。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1eca501ef33781e2bb62d04269f9236f.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-07T02:25:00.000Z"
+  },
+  {
+    "id": "1eca501ef33781198c88d6b2b00d184d",
+    "curriculumId": "1e7a501ef337805bbc4ed442525244f3",
+    "iconType": "emoji",
+    "iconUrl": "📗",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 27,
+    "parentId": "1eca501ef33780fca5bdf2a1ea7ef2ca",
+    "title": "4-4 百の位に0が使えるようにしよう",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここでは、百の位に0が使えるようにするプログラムを作る問題になります。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1eca501ef33781198c88d6b2b00d184d.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "tag": [
+      "Python",
+      "基礎班"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-07T02:25:00.000Z"
+  },
+  {
+    "id": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "emoji",
+    "iconUrl": "🖥️",
+    "coverUrl": "https://images.unsplash.com/photo-1621508654686-809f23efdabc?ixlib=rb-4.0.3\u0026q=85\u0026fm=jpg\u0026crop=entropy\u0026cs=srgb",
+    "coverType": "external",
+    "order": 9,
+    "parentId": "",
+    "title": "Flet の基礎",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Flet の使い方",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef3378055b70de6fcbb3bbb87.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2026-01-04T11:11:00.000Z"
+  },
+  {
+    "id": "1f2a501ef337814ab324f922a04c07a9",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "emoji",
+    "iconUrl": "❔",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 2,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "0. GUIとFletについて",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "まずは、これから開発していくGUIと、開発に使用するFletがどんなものか、簡単に紹介します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef337814ab324f922a04c07a9.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-13T05:17:00.000Z"
+  },
+  {
+    "id": "1f2a501ef3378153af80dbeb43b4e269",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/playback-play_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 3,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "1. Fletのインストール",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "これからFletを使っていくにあたって、Fletのインストールが必要です。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef3378153af80dbeb43b4e269.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-13T05:17:00.000Z"
+  },
+  {
+    "id": "1f2a501ef33781a49284d0a05e2c6853",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "emoji",
+    "iconUrl": "➕",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 4,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "2. カウンターを作ってみよう",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "作ってみよう",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef33781a49284d0a05e2c6853.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-13T05:17:00.000Z"
+  },
+  {
+    "id": "1f2a501ef33781159ab6e102f005effc",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "emoji",
+    "iconUrl": "🆕",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 5,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "3. ページの生成",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここからは Flet の基礎について学んでいきます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef33781159ab6e102f005effc.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-13T05:17:00.000Z"
+  },
+  {
+    "id": "1f2a501ef337811f8cdfd048944a1a02",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/square-three-fourths_green.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 6,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "4. コントロール",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回はFlet特有の要素である「コントロール」について学びます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef337811f8cdfd048944a1a02.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-13T05:17:00.000Z"
+  },
+  {
+    "id": "1f2a501ef3378193b91fe640fb009c46",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 7,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "Fletの練習問題1",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef3378193b91fe640fb009c46.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-08-11T06:30:00.000Z"
+  },
+  {
+    "id": "1f2a501ef3378105b4bdf8d00128dc56",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/cursor-button_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 8,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "5. 主要なコントロール①（ボタン系）",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ft.ElevatedButton(ft.Button)",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef3378105b4bdf8d00128dc56.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-06-29T13:56:00.000Z"
+  },
+  {
+    "id": "1f2a501ef33781f0aa2ed10a99de4035",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/rename_gray.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 9,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "6. 主要なコントロール②（テキスト系）",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "~ ft.Text, ft.TextField ~",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef33781f0aa2ed10a99de4035.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-06-29T13:56:00.000Z"
+  },
+  {
+    "id": "1f2a501ef337815ca39fee7c9b906b66",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 10,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "Fletの練習問題2",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題1",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef337815ca39fee7c9b906b66.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-08-11T06:30:00.000Z"
+  },
+  {
+    "id": "1f2a501ef33781c09affe4634d3f7993",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/list-indent_red.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 11,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "7. コントロールのレイアウト",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回はコントロールをウィンドウ上にレイアウトする方法をお伝えします。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef33781c09affe4634d3f7993.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-06-13T09:22:00.000Z"
+  },
+  {
+    "id": "1f2a501ef337814d9630d6bca814fb48",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 12,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "Fletの練習問題3",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef337814d9630d6bca814fb48.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-08-11T06:30:00.000Z"
+  },
+  {
+    "id": "1f2a501ef3378140af60f2e9ccf706c1",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/arrow-down_green.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 13,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "8. プロパティへのアクセス",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Fletでは、ボタンやテキストフィールドなどのコントロール（UI部品）にある「プロパティ（属性）」をコードから読み取ったり、変更したりすることができます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef3378140af60f2e9ccf706c1.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-13T05:17:00.000Z"
+  },
+  {
+    "id": "1f2a501ef33781308728e3d7c43f6ab4",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 14,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "Fletの練習問題4",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef33781308728e3d7c43f6ab4.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-08-11T06:30:00.000Z"
+  },
+  {
+    "id": "1f2a501ef337814f8d9ad3ff930e4a0c",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/gear_yellow.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 15,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "9. イベントハンドラとイベントオブジェクト",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "GUIアプリケーションでは、ユーザーの操作に応じて画面が変わったり、何らかの処理が実行されたりします。たとえば、ボタンを押すとメッセージが表示されたり、入力された文字によって表示内容が変わったりする、といった動きです。\nこの章では、そうした動作をするために必要な「イベントハンドラ」と「イベントオブジェクト」について、学んでいきます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef337814f8d9ad3ff930e4a0c.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-13T05:17:00.000Z"
+  },
+  {
+    "id": "1f2a501ef3378191b1e8c8bb82351594",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 16,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "Fletの練習問題5",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題1",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef3378191b1e8c8bb82351594.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-08-11T06:30:00.000Z"
+  },
+  {
+    "id": "1f2a501ef33781fa8253ffa48f3563e5",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/calculator_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 21,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "電卓について",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "電卓のデモ",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef33781fa8253ffa48f3563e5.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-06-25T07:20:00.000Z"
+  },
+  {
+    "id": "1f2a501ef3378100a84de70c910fe58a",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/calculator_orange.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 25,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "電卓アレンジ例",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "電卓が完成した方は、以下のアレンジ例を参考にしてオリジナルの電卓を作成してください。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef3378100a84de70c910fe58a.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-13T05:17:00.000Z"
+  },
+  {
+    "id": "1f2a501ef33781fa971eff1c96a32fe2",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "emoji",
+    "iconUrl": "📑",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 27,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "ToDoアプリ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "電卓が完成した方は、Todoアプリを作ってみてください。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef33781fa971eff1c96a32fe2.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-08-12T09:50:00.000Z"
+  },
+  {
+    "id": "1f2a501ef33781218bfdedd80b5b35ad",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "emoji",
+    "iconUrl": "🚧",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 30,
+    "parentId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "title": "【工事中】コントロール紹介",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "現在作成中のページですが、閲覧していただいで大丈夫です。\nこれからもコントロールを追加していく予定です。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef33781218bfdedd80b5b35ad.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-13T05:17:00.000Z"
+  },
+  {
+    "id": "1f2a501ef33781839576ce0ffe742787",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "emoji",
+    "iconUrl": "🔲",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 5,
+    "parentId": "1f2a501ef33781218bfdedd80b5b35ad",
+    "title": "Container",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "公式ドキュメント",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef33781839576ce0ffe742787.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-13T05:17:00.000Z"
+  },
+  {
+    "id": "1f2a501ef33781f9a0daf94add8e7cc3",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "emoji",
+    "iconUrl": "📄",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 6,
+    "parentId": "1f2a501ef33781218bfdedd80b5b35ad",
+    "title": "Text",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "公式ドキュメント",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef33781f9a0daf94add8e7cc3.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-09-17T03:53:00.000Z"
+  },
+  {
+    "id": "1f2a501ef3378179830cc107a72faf73",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/cursor-button_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 7,
+    "parentId": "1f2a501ef33781218bfdedd80b5b35ad",
+    "title": "Button",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "公式ドキュメント",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef3378179830cc107a72faf73.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-13T05:17:00.000Z"
+  },
+  {
+    "id": "1f2a501ef337813ca777f48d0edddc2a",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/rename_gray.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 10,
+    "parentId": "1f2a501ef33781218bfdedd80b5b35ad",
+    "title": "TextField",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "公式ドキュメント",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef337813ca777f48d0edddc2a.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-13T05:17:00.000Z"
+  },
+  {
+    "id": "1f2a501ef3378143a535edb6d9256710",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "emoji",
+    "iconUrl": "✅",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 11,
+    "parentId": "1f2a501ef33781218bfdedd80b5b35ad",
+    "title": "Checkbox",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "公式ドキュメント",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef3378143a535edb6d9256710.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-13T05:17:00.000Z"
+  },
+  {
+    "id": "1f2a501ef3378191b01dc3837805d3b3",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "custom_emoji",
+    "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/assets/1f2a501ef3378191b01dc3837805d3b3/icon.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 14,
+    "parentId": "1f2a501ef33781218bfdedd80b5b35ad",
+    "title": "Tabs",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "公式ドキュメント",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef3378191b01dc3837805d3b3.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-13T05:17:00.000Z"
+  },
+  {
+    "id": "1f2a501ef33781dd9aabc21539a0882b",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "emoji",
+    "iconUrl": "🎨",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 17,
+    "parentId": "1f2a501ef33781218bfdedd80b5b35ad",
+    "title": "Colors",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "色の設定にはcolorsクラスを使用できます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef33781dd9aabc21539a0882b.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-13T05:17:00.000Z"
+  },
+  {
+    "id": "1f2a501ef3378146ba46cbed686c0185",
+    "curriculumId": "1f2a501ef3378055b70de6fcbb3bbb87",
+    "iconType": "emoji",
+    "iconUrl": "😆",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 18,
+    "parentId": "1f2a501ef33781218bfdedd80b5b35ad",
+    "title": "Icons",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "アイコンを指定できます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f2a501ef3378146ba46cbed686c0185.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Python",
+      "Flet",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-13T05:17:00.000Z"
+  },
+  {
+    "id": "1f5a501ef3378055b23cf8b1b79b780a",
+    "curriculumId": "1f5a501ef3378055b23cf8b1b79b780a",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/meeting_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 15,
+    "parentId": "",
+    "title": "グループワーク",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "グループワークで使用する資料を公開します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f5a501ef3378055b23cf8b1b79b780a.png"
+    },
+    "visibility": [
+      "発展班",
+      "体験入部",
+      "基礎班"
+    ],
+    "tag": [
+      "グループワーク",
+      "基礎班",
+      "Python"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2026-01-04T11:11:00.000Z"
+  },
+  {
+    "id": "1f5a501ef337800ca814cda3cb32fb56",
+    "curriculumId": "1f5a501ef3378055b23cf8b1b79b780a",
+    "iconType": "emoji",
+    "iconUrl": "🐾",
+    "coverUrl": "https://www.notion.so/images/page-cover/nasa_great_sandy_desert_australia.jpg",
+    "coverType": "external",
+    "order": 3,
+    "parentId": "1f5a501ef3378055b23cf8b1b79b780a",
+    "title": "エラー解決クエスト - 5/16(金)",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "エラーを体験して理解することは初心者にとって非常に効果的です。そこで、Pythonでわざとエラーの出るコードを出すので、その原因を考え、解決してください。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/1f5a501ef337800ca814cda3cb32fb56.png"
+    },
+    "visibility": [
+      "発展班",
+      "体験入部",
+      "基礎班"
+    ],
+    "tag": [
+      "グループワーク",
+      "基礎班",
+      "Python"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-05-16T07:28:00.000Z"
+  },
+  {
+    "id": "207a501ef33780c483a6f976c40cd9d2",
+    "curriculumId": "1f5a501ef3378055b23cf8b1b79b780a",
+    "iconType": "emoji",
+    "iconUrl": "🖋️",
+    "coverUrl": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixlib=rb-4.0.3\u0026q=85\u0026fm=jpg\u0026crop=entropy\u0026cs=srgb",
+    "coverType": "external",
+    "order": 4,
+    "parentId": "1f5a501ef3378055b23cf8b1b79b780a",
+    "title": "意見交換 de 復習 - 6/3, 4 (火, 水)",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "はじめに",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/207a501ef33780c483a6f976c40cd9d2.png"
+    },
+    "visibility": [
+      "発展班",
+      "体験入部",
+      "基礎班"
+    ],
+    "tag": [
+      "グループワーク",
+      "基礎班",
+      "Python"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-06-03T08:32:00.000Z"
+  },
+  {
+    "id": "214a501ef337805981b4fcf49cf9c102",
+    "curriculumId": "1f5a501ef3378055b23cf8b1b79b780a",
+    "iconType": "emoji",
+    "iconUrl": "🐾",
+    "coverUrl": "https://www.notion.so/images/page-cover/woodcuts_1.jpg",
+    "coverType": "external",
+    "order": 5,
+    "parentId": "1f5a501ef3378055b23cf8b1b79b780a",
+    "title": "エラー解決クエスト２ - 6/17, 18 (火, 水)",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "エラーを体験して理解することは初心者にとって非常に効果的です。そこで、Pythonでわざとエラーの出るコードを出すので、その原因を考え、解決してください。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/214a501ef337805981b4fcf49cf9c102.png"
+    },
+    "visibility": [
+      "発展班",
+      "体験入部",
+      "基礎班"
+    ],
+    "tag": [
+      "グループワーク",
+      "基礎班",
+      "Python"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-06-17T07:22:00.000Z"
+  },
+  {
+    "id": "229a501ef337803ea0bed46547063528",
+    "curriculumId": "1f5a501ef3378055b23cf8b1b79b780a",
+    "iconType": "emoji",
+    "iconUrl": "🐾",
+    "coverUrl": "https://images.unsplash.com/photo-1459257831348-f0cdd359235f?ixlib=rb-4.1.0\u0026q=85\u0026fm=jpg\u0026crop=entropy\u0026cs=srgb",
+    "coverType": "external",
+    "order": 6,
+    "parentId": "1f5a501ef3378055b23cf8b1b79b780a",
+    "title": "エラー解決クエスト３ - 7/8, 9 (火, 水)",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "エラーを体験して理解することは初心者にとって非常に効果的です。そこで、Python・Fletでわざとエラーの出るコードを出すので、その原因を考え、解決してください。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/229a501ef337803ea0bed46547063528.png"
+    },
+    "visibility": [
+      "発展班",
+      "体験入部",
+      "基礎班"
+    ],
+    "tag": [
+      "グループワーク",
+      "基礎班",
+      "Python"
+    ],
+    "category": [
+      "前期"
+    ],
+    "last_edited_time": "2025-07-08T08:51:00.000Z"
+  },
+  {
+    "id": "232a501ef33780c8920dc85f8ca9efde",
+    "curriculumId": "232a501ef33780c8920dc85f8ca9efde",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/home_brown.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 50,
+    "parentId": "",
+    "title": "Fletの宿題",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "夏休み中の課題として、全3つのFletアプリの作成をします。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/232a501ef33780c8920dc85f8ca9efde.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Flet",
+      "Python",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "夏休み"
+    ],
+    "last_edited_time": "2026-01-04T11:11:00.000Z"
+  },
+  {
+    "id": "232a501ef3378064a9cce16e066f0f48",
+    "curriculumId": "232a501ef33780c8920dc85f8ca9efde",
+    "iconType": "emoji",
+    "iconUrl": "🍅",
+    "coverUrl": "https://images.unsplash.com/photo-1505705694340-019e1e335916?ixlib=rb-4.1.0\u0026q=85\u0026fm=jpg\u0026crop=entropy\u0026cs=srgb",
+    "coverType": "external",
+    "order": 12,
+    "parentId": "232a501ef33780c8920dc85f8ca9efde",
+    "title": "回文判定アプリの手引き",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Q. 回文って何？",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/232a501ef3378064a9cce16e066f0f48.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Flet",
+      "Python",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "夏休み"
+    ],
+    "last_edited_time": "2025-07-26T06:39:00.000Z"
+  },
+  {
+    "id": "232a501ef3378021ab94e9762df05e86",
+    "curriculumId": "232a501ef33780c8920dc85f8ca9efde",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "https://www.notion.so/images/page-cover/met_william_morris_1877_willow.jpg",
+    "coverType": "external",
+    "order": 16,
+    "parentId": "232a501ef33780c8920dc85f8ca9efde",
+    "title": "シンプルメモアプリの手引き",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Q. シンプルメモアプリとは？",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/232a501ef3378021ab94e9762df05e86.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "Flet",
+      "Python",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "夏休み"
+    ],
+    "last_edited_time": "2025-11-28T11:09:00.000Z"
+  },
+  {
+    "id": "265a501ef33780eab42dee317fd66072",
+    "curriculumId": "256a501ef337802e8fcaf378c366fb03",
+    "iconType": "emoji",
+    "iconUrl": "☸️",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 2,
+    "parentId": "256a501ef337802e8fcaf378c366fb03",
+    "title": "クラス",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここではプログラミングの中で重要な構文であるクラスについて説明します",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/265a501ef33780eab42dee317fd66072.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-10-05T03:05:00.000Z"
+  },
+  {
+    "id": "26ea501ef33780eda25cfa4915c1b4ab",
+    "curriculumId": "256a501ef337802e8fcaf378c366fb03",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 3,
+    "parentId": "256a501ef337802e8fcaf378c366fb03",
+    "title": "クラスの練習問題",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題1",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/26ea501ef33780eda25cfa4915c1b4ab.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-09-19T01:20:00.000Z"
+  },
+  {
+    "id": "26ea501ef337803a993af4e422180074",
+    "curriculumId": "256a501ef337802e8fcaf378c366fb03",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/skip-forward_pink.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 8,
+    "parentId": "256a501ef337802e8fcaf378c366fb03",
+    "title": "クラスの継承",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回はクラスの継承について紹介します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/26ea501ef337803a993af4e422180074.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-09-23T06:06:00.000Z"
+  },
+  {
+    "id": "272a501ef33780b3b5fadbe1df070583",
+    "curriculumId": "256a501ef337802e8fcaf378c366fb03",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/battery_orange.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 9,
+    "parentId": "256a501ef337802e8fcaf378c366fb03",
+    "title": "lambda式",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回はpythonのlambda式について説明します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef33780b3b5fadbe1df070583.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-09-18T08:30:00.000Z"
+  },
+  {
+    "id": "272a501ef33780469e42d990642e19bf",
+    "curriculumId": "256a501ef337802e8fcaf378c366fb03",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/report_yellow.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 10,
+    "parentId": "256a501ef337802e8fcaf378c366fb03",
+    "title": "例外処理",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回はPythonの「例外処理」について説明します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef33780469e42d990642e19bf.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-09-18T08:31:00.000Z"
+  },
+  {
+    "id": "272a501ef3378026b170d8a3ae12483e",
+    "curriculumId": "256a501ef337802e8fcaf378c366fb03",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/grid-wide_lightgray.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 11,
+    "parentId": "256a501ef337802e8fcaf378c366fb03",
+    "title": "タプル型",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今回はpythonのデータ型の一つであるタプル型について紹介します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef3378026b170d8a3ae12483e.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-09-18T15:52:00.000Z"
+  },
+  {
+    "id": "256a501ef337803b9c9ee872f50d594f",
+    "curriculumId": "256a501ef337803b9c9ee872f50d594f",
+    "iconType": "custom_emoji",
+    "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/assets/256a501ef337803b9c9ee872f50d594f/icon.png",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 111,
+    "parentId": "",
+    "title": "Flet後期",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "必須ページ",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/256a501ef337803b9c9ee872f50d594f.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2026-01-04T11:11:00.000Z"
+  },
+  {
+    "id": "26ea501ef33780e0aff1e562add4627b",
+    "curriculumId": "256a501ef337803b9c9ee872f50d594f",
+    "iconType": "emoji",
+    "iconUrl": "🆕",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 2,
+    "parentId": "256a501ef337803b9c9ee872f50d594f",
+    "title": "新しいFletアプリの作り方",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "アプリは複数のファイル・フォルダで作る。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/26ea501ef33780e0aff1e562add4627b.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-09-19T01:20:00.000Z"
+  },
+  {
+    "id": "267a501ef33780fd9f0efa54963de153",
+    "curriculumId": "256a501ef337803b9c9ee872f50d594f",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/branch_orange.svg",
+    "coverUrl": "https://images.unsplash.com/photo-1521675333836-36e707ac1d20?ixlib=rb-4.1.0\u0026q=85\u0026fm=jpg\u0026crop=entropy\u0026cs=srgb",
+    "coverType": "external",
+    "order": 3,
+    "parentId": "256a501ef337803b9c9ee872f50d594f",
+    "title": "ルーティング",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "このページでは、複数ページを扱うアプリを作るうえで必要な知識であるルーティングについて説明するための前知識を説明します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/267a501ef33780fd9f0efa54963de153.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-12-24T07:42:00.000Z"
+  },
+  {
+    "id": "267a501ef33780c2ac2ac9c0ac0b439e",
+    "curriculumId": "256a501ef337803b9c9ee872f50d594f",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/branch_green.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 4,
+    "parentId": "256a501ef337803b9c9ee872f50d594f",
+    "title": "静的ルーティング",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "プログラミングをしていると度々「静的～」「動的～」と聞くことがあります。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/267a501ef33780c2ac2ac9c0ac0b439e.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-12-24T07:41:00.000Z"
+  },
+  {
+    "id": "267a501ef33780e690aafe7e057f852b",
+    "curriculumId": "256a501ef337803b9c9ee872f50d594f",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/cut_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 5,
+    "parentId": "256a501ef337803b9c9ee872f50d594f",
+    "title": "View毎のファイル分割",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "今までのページで、複数ページを持つアプリの作り方を学びました。\nしかし、このままページの数を増やしていくと、main.pyファイルがどんどん長くなり、どこに何が書かれているのか把握するのが難しくなってしまいます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/267a501ef33780e690aafe7e057f852b.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-09-19T01:20:00.000Z"
+  },
+  {
+    "id": "26ea501ef337801a9bc5fe1221d3f826",
+    "curriculumId": "256a501ef337803b9c9ee872f50d594f",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 6,
+    "parentId": "256a501ef337803b9c9ee872f50d594f",
+    "title": "ルーティングの練習問題",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題１",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/26ea501ef337801a9bc5fe1221d3f826.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-09-23T16:43:00.000Z"
+  },
+  {
+    "id": "263a501ef3378041a746ebebfc015bcf",
+    "curriculumId": "256a501ef337803b9c9ee872f50d594f",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/photo-landscape_green.svg",
+    "coverUrl": "https://images.unsplash.com/photo-1523461811963-7f1023caeddd?ixlib=rb-4.1.0\u0026q=85\u0026fm=jpg\u0026crop=entropy\u0026cs=srgb",
+    "coverType": "external",
+    "order": 9,
+    "parentId": "256a501ef337803b9c9ee872f50d594f",
+    "title": "Imageコントロール",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "アプリ内に画像を表示できるようになると、例えばアイコンを表示させたり、Twitter (新X) やインスタのように写真を投稿できるようになったり、機能の幅が広がります。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/263a501ef3378041a746ebebfc015bcf.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-09-03T16:51:00.000Z"
+  },
+  {
+    "id": "263a501ef337805d89cff74be50d4712",
+    "curriculumId": "256a501ef337803b9c9ee872f50d594f",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/square-three-fourths_gray.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 0,
+    "parentId": "263a501ef337809ca153d93cc663b9ce",
+    "title": "Imageの表示領域とfitプロパティの話",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/263a501ef337805d89cff74be50d4712.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-09-16T09:18:00.000Z"
+  },
+  {
+    "id": "267a501ef337800380a5d685df0acc48",
+    "curriculumId": "256a501ef337803b9c9ee872f50d594f",
+    "iconType": "emoji",
+    "iconUrl": "🍭",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 10,
+    "parentId": "256a501ef337803b9c9ee872f50d594f",
+    "title": "動的ルーティング",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ここでは「動的ルーティング」について解説します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/267a501ef337800380a5d685df0acc48.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-09-18T08:29:00.000Z"
+  },
+  {
+    "id": "272a501ef33780c2b370cc9f784525d0",
+    "curriculumId": "256a501ef337803b9c9ee872f50d594f",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/arrow-left-basic_blue.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 11,
+    "parentId": "256a501ef337803b9c9ee872f50d594f",
+    "title": "AppBar",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Fletのアプリをより「アプリっぽく」することができるコントロール、AppBarについてご紹介します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef33780c2b370cc9f784525d0.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-09-18T08:29:00.000Z"
+  },
+  {
+    "id": "264a501ef337809b8603f6187c3ea3ec",
+    "curriculumId": "256a501ef337803b9c9ee872f50d594f",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/skip-forward_purple.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 12,
+    "parentId": "256a501ef337803b9c9ee872f50d594f",
+    "title": "カスタムコントロール",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Fletの要素であるコントロールは自分でカスタムすることが可能です。今回は「カスタムコントロール」を紹介します。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/264a501ef337809b8603f6187c3ea3ec.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-09-18T08:23:00.000Z"
+  },
+  {
+    "id": "272a501ef33780dfadfaf37fcb54b0c7",
+    "curriculumId": "256a501ef337803b9c9ee872f50d594f",
+    "iconType": "emoji",
+    "iconUrl": "🎨",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 13,
+    "parentId": "256a501ef337803b9c9ee872f50d594f",
+    "title": "カラーテーマ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "Fletで作成するアプリを一気に個性的にできる、カラーテーマ機能についてお教えします。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/272a501ef33780dfadfaf37fcb54b0c7.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python",
+      "Flet"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2025-09-18T08:29:00.000Z"
+  },
+  {
+    "id": "278a501ef337803ab4f6ea002a586eb2",
+    "curriculumId": "278a501ef337803ab4f6ea002a586eb2",
+    "iconType": "emoji",
+    "iconUrl": "📖",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 2,
+    "parentId": "",
+    "title": "本のリスト",
+    "type": "info",
+    "ogp": {
+      "first_text": "",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/278a501ef337803ab4f6ea002a586eb2.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "情報"
+    ],
+    "category": [
+      "部活情報"
+    ],
+    "last_edited_time": "2026-01-04T12:47:00.000Z"
+  },
+  {
+    "id": "278a501ef33780cd8630d283f74801aa",
+    "curriculumId": "278a501ef33780cd8630d283f74801aa",
+    "iconType": "emoji",
+    "iconUrl": "📚",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 1,
+    "parentId": "",
+    "title": "部室の本貸し出し・返却",
+    "type": "info",
+    "ogp": {
+      "first_text": "部室の本を管理するために、貸し出しと返却用のフォームを作成しました！",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/278a501ef33780cd8630d283f74801aa.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "情報"
+    ],
+    "category": [
+      "部活情報"
+    ],
+    "last_edited_time": "2026-01-04T12:47:00.000Z"
+  },
+  {
+    "id": "279a501ef33780dfa164dcfbf444bd9d",
+    "curriculumId": "279a501ef33780dfa164dcfbf444bd9d",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/couch_green.svg",
+    "coverUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/assets/279a501ef33780dfa164dcfbf444bd9d/cover.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Credential=ASIAZI2LB466YVMFH4JF%2F20260104%2Fus-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date=20260104T124831Z\u0026X-Amz-Expires=3600\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGEaCXVzLXdlc3QtMiJHMEUCIQDrsPjAgcxiURkqxjwZsgw5KeYDyilb0EFgDAX%2ByXIi9QIgNQ2emljoNwM9WT%2Bz3FkQtQXTXK2eLngrvp1oPDXoErQq%2FwMIKhAAGgw2Mzc0MjMxODM4MDUiDEUWS6m7YiNTVy3HDCrcAwuCoL89%2BhqdIrBBzSq%2FHMktDLibaYornt6GLu8%2FFvhdyo%2Bk87cF929QtkinogVEdNJyBhQPyn9i2LWBfQZ0T2PcjgqPavR3yxTENJynMJM1BYIJr6lJg7VPXXCNHXurSUzEoAkHeUBoP5sw3H5U%2B10c6Rn2FkWFuwFeCaJ%2FjNf6novGplilvjD8qGWljRt%2BtI5lk5apCz8gGhFr1Tr22iEG6PYlK3itzqjEtSfOhW5cS4s5%2FA9QhGvnnO%2Bbe1di22ODe4TfmV9ykb0bbFS9K6WRLAcy6qEXCNogUEyT6KBDVKVDTglz4psiHnKPwCyBokZRz6fMZLxq3AGtHyOd9u38uXF6igSM%2BGOo2tOJEQA6hFo6PwQs77uFFqEIkKswLW%2BE2GSmfjGFP8VRKLwvmZI3DZWVnj8TG%2B3raqtDejKHOU4XZvtn3Uj27UwTSE78uC6qUwQliJrc84pbHxDCDQCvp2J5iLVtbuNOOhiE6FytQ%2FtKtVt00hfkpwfqPEdjwqW29VvVdz8AJ2uEph77v1fFiXSP7UC%2BVg4SwtiEOaczlN1gccXzJFYBvW3NbsDaaf0j6qkM3wJUK2g1JNZZOftBqjHSwy0l2YApSGHrth5bldF7rvE2smybdHGiMIXM6MoGOqUBuXDLH8dzgv9YkbHphKc3g1s%2F5t5QfoyGh51eRnhcPJmx46oQ2DKTR2QAssX%2FaamkMZYmm7BnFQiG9loqf3jxv8mAbdyrzNnRzUW2qZ4j6Buz63JaDRBqr4p9zVxkrFWja8v8YvGGqLQ2PxEf9HG0fM829n8%2BylnxPEpcAC4fQnATBMRIbLAVBYZls78dnHyOsEEextdDcu0CYG8mSISh2adAsEju\u0026X-Amz-Signature=4f430e3a6c72f777dec97c58fc0779536b0f09e4314d6947bf4c342697e7d21c\u0026X-Amz-SignedHeaders=host\u0026x-amz-checksum-mode=ENABLED\u0026x-id=GetObject",
+    "coverType": "file",
+    "order": 3,
+    "parentId": "",
+    "title": "部室の場所とルール",
+    "type": "info",
+    "ogp": {
+      "first_text": "深草部室(BOX)についてのアクセス方法",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/279a501ef33780dfa164dcfbf444bd9d.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "情報"
+    ],
+    "category": [
+      "部活情報"
+    ],
+    "last_edited_time": "2026-01-04T12:47:00.000Z"
+  },
+  {
+    "id": "27ca501ef3378064a7c7d01f40afb922",
+    "curriculumId": "27ca501ef3378064a7c7d01f40afb922",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/graduate_purple.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 4,
+    "parentId": "",
+    "title": "udemyアカウント",
+    "type": "info",
+    "ogp": {
+      "first_text": "Horizonでudemyのアカウントを所有しています",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/27ca501ef3378064a7c7d01f40afb922.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "情報"
+    ],
+    "category": [
+      "部活情報"
+    ],
+    "last_edited_time": "2026-01-04T12:47:00.000Z"
+  },
+  {
+    "id": "283a501ef33780228aa2d52f07d4848d",
+    "curriculumId": "27ca501ef3378064a7c7d01f40afb922",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/photo-landscape_purple.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 0,
+    "parentId": "283a501ef337808a9502f4b09ff9cadc",
+    "title": "購入済みの動画一覧",
+    "type": "info",
+    "ogp": {
+      "first_text": "",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/283a501ef33780228aa2d52f07d4848d.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "情報"
+    ],
+    "category": [
+      "部活情報"
+    ],
+    "last_edited_time": "2026-01-04T12:47:00.000Z"
+  },
+  {
+    "id": "256a501ef33780788124f85e3320ee25",
+    "curriculumId": "256a501ef33780788124f85e3320ee25",
+    "iconType": "emoji",
+    "iconUrl": "💪",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 113,
+    "parentId": "",
+    "title": "任意ページ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "このページにまとめたカリキュラムは、必須ではありません。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/256a501ef33780788124f85e3320ee25.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2026-01-10T12:39:00.000Z"
+  },
+  {
+    "id": "256a501ef337802e8fcaf378c366fb03",
+    "curriculumId": "256a501ef337802e8fcaf378c366fb03",
+    "iconType": "custom_emoji",
+    "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/assets/256a501ef337802e8fcaf378c366fb03/icon.png",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 110,
+    "parentId": "",
+    "title": "Python後期",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "必須ページ",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/256a501ef337802e8fcaf378c366fb03.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2026-01-10T14:54:00.000Z"
+  },
+  {
+    "id": "267a501ef33780ba90cbd7fbfbcdc324",
+    "curriculumId": "256a501ef337802e8fcaf378c366fb03",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/arrow-down-line_gray.svg",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 4,
+    "parentId": "256a501ef337802e8fcaf378c366fb03",
+    "title": "import文",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "ほとんどの場合、Pythonでコードを書くと、一番はじめに行う命令はimportです。今回はこのimportが何を行なっているのか、どのように使うのかを学んでいきます。",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/267a501ef33780ba90cbd7fbfbcdc324.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2026-01-10T14:56:00.000Z"
+  },
+  {
+    "id": "26ea501ef337803ea94fef75d78cea9e",
+    "curriculumId": "256a501ef337802e8fcaf378c366fb03",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 5,
+    "parentId": "256a501ef337802e8fcaf378c366fb03",
+    "title": "import文の練習問題",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "問題１",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/26ea501ef337803ea94fef75d78cea9e.png"
+    },
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "tag": [
+      "基礎班",
+      "Python"
+    ],
+    "category": [
+      "後期"
+    ],
+    "last_edited_time": "2026-01-12T12:02:00.000Z"
+  },
+  {
+    "id": "2f5a501ef33780069c27c8c9c3d5c599",
+    "curriculumId": "2f5a501ef33780069c27c8c9c3d5c599",
+    "iconType": "emoji",
+    "iconUrl": "💮",
+    "coverUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/assets/2f5a501ef33780069c27c8c9c3d5c599/cover.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Credential=ASIAZI2LB466WRRXI3W4%2F20260209%2Fus-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date=20260209T022226Z\u0026X-Amz-Expires=3600\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjELr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDqRg%2F9NW%2Br6kpPj7dB3ah0JOc63DX1ZxGeGykSm%2B5B1QIgGDScIbpvegYnxT60RaFe9lsxJ8nfLDMMGCig9XQmabMqiAQIg%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFLCHEIKSM3BqQz%2BYyrcAxJ8WhdNm6gr3sXqcjPsXWwcVSqPYQqG4o97ulAwc9mgVcLOcxuX%2FnP0JFgJ8CUAhoF0NFyfyzQ4paAJSrj2fCb9%2F4YTgJiVURL4U5%2BvVelaPUF6%2FqAtSyqaDhxe%2BtBTuVe3UhUMIrizmE76pZ6sQ0eRqXL2NmyX1yTE5HaemEl9hPskex9a5Ea52ZfLfHIZOsqPdgm0pg6aT4vUYIi9Wl7x2%2Frl6jIzvanx5%2FzlbTmXC9T8mkXZr2ZI5LTcSf98S%2FtuJNGSfI%2BPan%2BQksUmEdgeLBX3CvFuBh%2FXyRjGwXAg%2BnZ0w5FuH1%2F7sSQc7Zs%2BvD1NvCBLY6IWgD5w8P2x98XAomsU%2FBgL76p1L1%2BpahfOCV4loLzc9t1kD9Wh9CTaLjtCdTz4c1oGjS%2FBoRnI2qJgdRceQTEL%2F%2BS5uNNtg7wt2tobAuwriFT3OHwDhqRHEkKqfZG%2FDdht3kecsbZ0Iaeh79vFEZjuA3XIRCOQC75yTPref21WL%2BTSz03A9t%2BExdHDt7Sge1zVoo0SxWzMG7bpaJN0M3oBookNkCX64pvU2ci8go6gv7m6utazb3TaU%2BEMV8rWn9hZiES8sCgF%2FXSvrAa3VO0%2BStBjaWBV3xcOcnb4DI22PTiLEHDTMMuFpcwGOqUBglvs%2Bf7B%2Bbb8yzvHPybWlH30dHPInejxkc53WFEX%2BkwDWT6iRqjrKGLTl1vMu7%2Bv2p5%2BwvnxznysqmWYdgwpMdbYejytVTRXq7fUVA2Y4fv5WwUJEsjiPaQQRRQVkxpSWJmpKzXsde21WQnIzK32ZucdxLRA3Z8Yu%2BwPwVadI2sOpFS6cMtfFTr9s1tqbWJ4yeBWpzEhSAvSm78t7zVAmn0X1%2B7b\u0026X-Amz-Signature=306dca1074b5d39eed33323e55f638832ab9a3fc8c0ed6ecd4d8ce19fc314eed\u0026X-Amz-SignedHeaders=host\u0026x-amz-checksum-mode=ENABLED\u0026x-id=GetObject",
+    "coverType": "file",
+    "order": 0,
+    "parentId": "",
+    "title": "春休みのオリジナルアプリ",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "目次",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2f5a501ef33780069c27c8c9c3d5c599.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Flet",
+      "Python",
+      "基礎班",
+      "GUI"
+    ],
+    "category": [
+      "春休み"
+    ],
+    "last_edited_time": "2026-02-08T13:50:00.000Z"
+  },
+  {
+    "id": "2b4a501ef33780e38f2dfc843cdf6d23",
+    "curriculumId": "2b4a501ef33780e38f2dfc843cdf6d23",
+    "iconType": "custom_emoji",
+    "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/assets/2b4a501ef33780e38f2dfc843cdf6d23/icon.png",
+    "coverUrl": "",
+    "coverType": "",
+    "order": 0,
+    "parentId": "",
+    "title": "Qiita Teamへの参加方法（発展班向け）",
+    "type": "curriculum",
+    "ogp": {
+      "first_text": "2025年度の活動より、発展班を中心としてHorizonで Qiita Team というサービスを使用することになりました！",
+      "image_path": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage/main/notion_data/ogp/2b4a501ef33780e38f2dfc843cdf6d23.png"
+    },
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "tag": [
+      "Qiita Team"
+    ],
+    "category": [
+      "春休み"
+    ],
+    "last_edited_time": "2026-02-10T06:45:00.000Z"
+  }
+]
